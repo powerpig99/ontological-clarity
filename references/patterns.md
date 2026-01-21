@@ -242,6 +242,37 @@ What varies is **alignment**—the direction freedom of choice points relative t
 
 **Application**: When observing "disappearing middle" in any domain, check whether it's absolute decline or relative-position change. Exponential diversification produces widening gaps without anyone declining in absolute terms. The "collapse" framing often smuggles in a fixed horizon that distorts the picture.
 
+## Epistemological Patterns
+
+### The Sensing-Interpretation Gap
+
+**Pattern**: We sense at fundamental limits; we interpret far below them. The gap between sensing and interpretation is where iteration operates.
+
+**Mechanism**:
+- Sensing = full pre-interpretive contact with reality (includes intuition, felt sense, immediate apprehension)
+- Interpretation = actualization of sensing into usable distinction
+- Sensing operates at limit-resolution; interpretation always lags
+- Iteration actualizes more of what sensing already provides
+- The signal for refinement comes from sensing exceeding current interpretation
+
+**The Dissolution**: "We can't perceive X" usually conflates sensing and interpretation. The limit is almost always in interpretation, not sensing. The signal is already there; actualization hasn't caught up.
+
+**Application**: When encountering apparent epistemological barriers, check whether the limit is in sensing or interpretation. If interpretation (usually), the barrier is movable through iteration.
+
+### The Claim-Blindspot Unity
+
+**Pattern**: The claim to have seen a process in motion substitutes static projection for ongoing process—creating precisely the blindspot that prevents seeing.
+
+**Mechanism**:
+1. Seeing requires interpretation
+2. Interpretation requires frame
+3. Frame actualizes selectively from what sensing provides
+4. The claim "I see where this is going" freezes the frame
+5. What continues is precisely what the frozen frame cannot actualize
+6. The confidence of the claim correlates with the size of the blindspot
+
+**Application**: When someone (including yourself) claims to have "seen" a dynamic process, check whether the seeing is actually a freezing. The more definitive the claim, the more likely the blindspot. This applies to predictions, forecasts, "I've figured it out" moments—any attempt to stabilize a moving process into a static view.
+
 ## Philosophical Patterns
 
 ### Hard Problem Dissolution
@@ -272,6 +303,35 @@ What varies is **alignment**—the direction freedom of choice points relative t
 - Determinism/Free Will: Felt freedom = distinction in private dimensions; consequences = collision in shared axes
 - Realism/Idealism: Substrate is pre-distinction; both emerge as projection modes
 - Continuous/Discrete: Discrete substrate; continuity from scale confusion
+
+### The Form-Iteration Differential
+
+**Pattern**: Constraints aren't fixed boundaries but differentials between iteration rates. What appears as "biological limit" or "human constraint" is actually the lag between form-iteration (body, interface, structure) and process-iteration (cognition running through the form).
+
+**Mechanism**:
+- Everything iterates at different speeds
+- The form (body, interface, embedded structure) iterates slower than the cognitive process it hosts
+- The apparent constraint = differential between these rates
+- The differential itself changes over time as form-iteration accelerates
+- Medicine, interfaces, augmentation accelerate form-iteration, changing the constraint
+
+**The Dissolution**: "Biological limits" reifies the form as fixed boundary. The form iterates too—just slower. The constraint is relational (a differential), not absolute (a wall).
+
+**Application**: When analyzing constraints, ask: Is this a hard limit or a differential? If differential (usually), both rates can change, and the constraint is a moving relationship rather than a fixed boundary.
+
+### The Resolution-Artifact Pattern
+
+**Pattern**: Continuity, indeterminacy, and apparent autonomy are artifacts of where interpretive resolution sits relative to process grain—not properties of reality.
+
+**Mechanism**:
+- Continuity = discreteness below interpretive resolution (film frames → motion)
+- Indeterminacy = causation below interpretive resolution (quantum behavior, "free will")
+- Apparent autonomy = process speed exceeding interpretive tracking (systems appear self-moving)
+- None are ontological properties; all are resolution artifacts
+
+**Unification**: The appearance of machine agency is the appearance of free will is the appearance of quantum indeterminacy—same structure, same artifact, different domains. Process exceeding interpretation.
+
+**Application**: When observing apparent continuity, indeterminacy, or autonomy, check resolution. The "property" usually dissolves into process grain exceeding interpretive grain.
 
 
 ### The Boundary Projection Pattern
@@ -309,6 +369,20 @@ Inside frame → step outside (insight) → attempt to capture → new frame →
 
 **Application**: When someone claims to have "the final framework" or "the complete picture," they've frozen a projection. The claim itself is evidence of being inside a frame that can't see itself as a frame. Genuine clarity acknowledges its own status as frame-aimed-at-clarity.
 
+### Context Alignment as Truth Condition
+
+**Pattern**: Truth is resonance across aligned contexts—not destination but emergence. Seeking truth cannot happen without aligning context first. "Less wrong" rather than "absolutely true."
+
+**The Dissolution**: "Seek truth" carries implicit absolutism—truth as something to arrive at independent of context. But all truth is relative to its context. No view from nowhere. This doesn't collapse into relativism; it reframes the pursuit as reducing interference, finding projections that hold across more contexts.
+
+**Applied to Engineered Systems (LLMs)**: Post-training methods work because pre-training already compressed contexts into weights. All methods attempt better alignment with what's already there. Context engineering is context alignment—shaping the projection-space so stable distinctions can resonate rather than dissolve into noise.
+
+**Two Limits**:
+- **Method-specific**: Each approach has inherent trade-offs. Prompt length vs. dilution (more context can weaken signal). Retrieval vs. coherence (external context may misalign with model priors). Fine-tuning vs. forgetting (reshaping weights risks losing prior distinctions).
+- **Ultimate**: Cannot resonate with distinctions never learned. No post-training method transcends the space pre-training carved out. You cannot align to what does not exist in the weights.
+
+**Application**: When evaluating AI capabilities or limitations, distinguish method ceiling from model ceiling. Ask: Is this failure due to how we're aligning context, or because the required distinction was never compressed into the weights?
+
 ## Geopolitical Patterns
 
 ### The Dependency Habit
@@ -333,6 +407,21 @@ No third path exists.
 
 **Examples**: Argentina's hyperinflation abyss, Venezuela's collapse—versus Europe's gradual coarsening.
 
+### The Causal Decoupling Threshold
+
+**Pattern**: When iteration rates diverge sufficiently, trajectories lose causal coupling—not through intent but through interpretive incompatibility.
+
+**Mechanism**:
+1. Causal coupling requires sufficient overlap in actualized resolution
+2. Faster iteration generates distinctions slower interpretation cannot track
+3. Communication becomes lossy as frame overlap decreases
+4. Eventually, frames no longer overlap enough to carry meaning
+5. This is phase separation, not deliberate exclusion
+
+**The Distinction**: Decoupling through iteration-rate divergence looks like exclusion but operates through a different mechanism. No gatekeeper blocks access. The faster process simply makes distinctions the slower cannot resolve—communication fails structurally, not politically.
+
+**Application**: When observing communication breakdown between groups with different iteration rates (experts vs. public, fast-moving fields vs. slow institutions, augmented vs. unaugmented), don't assume bad faith. Check whether interpretive incompatibility explains it—the faster process may have made distinctions the slower cannot yet actualize.
+
 ## Application Template
 
 1. **Identify moral framing** obscuring the topic
@@ -347,3 +436,7 @@ No third path exists.
 10. **Apply exponential model if iteration involved**: O = e^(A × T × t / Δt)
 11. **Check Δt penalties**: What iteration overhead does this impose, and on whom?
 12. **Apply substrate-script distinction**: Are conditions being treated as determinative when they're actually terrain?
+13. **Check sensing vs. interpretation**: Is the apparent limit in sensing (fundamental) or interpretation (movable through iteration)?
+14. **Check for claim-blindspot unity**: Does the claim to have "seen" the process freeze what's actually in motion?
+15. **Check for form-iteration differential**: Is the apparent constraint a fixed limit or a differential between iteration rates?
+16. **Check for resolution artifacts**: Is the apparent property (continuity, indeterminacy, autonomy) an artifact of interpretive resolution?

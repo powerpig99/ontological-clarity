@@ -50,6 +50,12 @@ No clean exit. The seeing and the deceiving, inseparable. Not a problem to solve
 
 **Implication**: "Always refining" isn't humility—it's structure. You're not saying "I'm too limited to reach truth." You're saying: the reaching IS the truth. Each articulation is a frame; each recognition of that is a momentary exit; each attempt to hold the recognition is re-entry. The practice is the repeated movement, not arrival at a permanent vantage point.
 
+**Sensing vs. Interpretation**: We sense at fundamental limits—not just through sensory organs, but through the full pre-interpretive contact with reality: intuition, felt sense, immediate apprehension. This sensing operates at limit-resolution. What lags is interpretation: the actualization of sensing into usable distinction.
+
+The gap between sensing and interpretation is why iteration works at all. If we had access only to our current interpretive frame, refinement would be circular—no signal to refine toward. But sensing provides the signal. That feeling of "not quite right," the recognition of fit or misfit before articulation—this is limit-resolution contact exceeding current interpretation.
+
+**Implication**: "We can't perceive X" usually conflates sensing and interpretation. The limit is almost always in interpretation, not sensing. The signal is already there; actualization hasn't caught up. Iteration actualizes more of what sensing already provides.
+
 ## The Curation of Coherence
 
 Stability isn't purely discovered—it's partly constructed. We don't passively observe that laws hold across all contexts. We actively:
@@ -202,6 +208,12 @@ External subsidy (security, resources) enables domestic models that couldn't oth
 ### The Substrate-Script Distinction
 External conditions are substrate (terrain), not script (instructions). They constrain but don't determine. The same circumstance produces radically different outcomes across individuals because freedom of choice operates on the substrate—it isn't dictated by it.
 
+### The Resolution Artifact
+What we call continuity, indeterminacy, and autonomy are artifacts of where interpretive resolution sits relative to process grain. Continuity = discreteness below resolution (film frames → motion). Indeterminacy = causation below resolution (quantum behavior, "free will"). Apparent autonomy = process exceeding interpretive tracking. None are ontological properties.
+
+### The Form-Iteration Differential
+Constraints aren't fixed boundaries but differentials between iteration rates. "Biological limit" is actually the lag between form-iteration (body, interface) and process-iteration (cognition through the form). The differential itself changes as form-iteration accelerates through medicine, interfaces, augmentation.
+
 ### The Revelation-Deception Unity
 Every insight crystallizes into a position. Every breakthrough becomes a new box. The insight that there's no ground becomes... a ground. Not a flaw to fix—structural. The trap can't be escaped by seeing it. The seeing IS another form of the trap. What remains: lightness. Not holding any frame too tightly. Not because "not holding tightly" is the answer—but because even that grip loosens when you notice it forming.
 
@@ -214,7 +226,7 @@ What appears as discovered stability is partly constructed through selective att
 
 **Epistemology**: Scientific consensus gatekeeping, pluralistic ignorance, "neutrality" as hidden assumption, coherence curation.
 
-**Technology**: AI as compressed human RL (not independent intelligence), preemptive regulation feedback loops and adverse selection dynamics, agency-tool compounding asymmetry, exponential iteration dynamics, Δt as critical intervention variable.
+**Technology**: AI as compressed human RL (not independent intelligence), preemptive regulation feedback loops and adverse selection dynamics, agency-tool compounding asymmetry, exponential iteration dynamics, Δt as critical intervention variable, sensing-interpretation dynamics, resolution artifacts (continuity/indeterminacy/autonomy as projection), form-iteration differentials, causal decoupling thresholds.
 
 **Semantics & Language Models**: Meaning as distinction (not positive content), features as lossy projections of distinction-structure, context as projection-selection, attention mechanisms as learned relevance-weighting. See `references/semantic-grounding.md`.
 
@@ -239,6 +251,7 @@ What appears as discovered stability is partly constructed through selective att
 - `samples/naval-ai-adaptation.md`: AI as automated human adaptation—demonstrates false dichotomy dissolution, zoom-level artifacts, reframing without claiming completeness
 - `samples/extended-cognition.md`: Tools as active extensions—demonstrates boundary-projection pattern, constant-variable distinction applied to extension capacity, structural parallel with naval-ai-adaptation
 - `samples/meaning-as-distinction.md`: Dialogue tracing from Transformers to ontological foundations—demonstrates iterative deepening, revelation-deception pattern, practical anchoring
+- `samples/iteration-threshold.md`: Iteration dynamics, sensing/interpretation distinction, resolution artifacts—demonstrates reference frame discipline, absoluteness audit, claim-blindspot unity, form-iteration differential
 
 ## Usage Notes
 
@@ -260,6 +273,20 @@ What appears as discovered stability is partly constructed through selective att
 **Clarity is not authority.** Seeing mechanism clearly doesn't confer right to prescribe. Different horizons produce different optimizations; none complete. Analysis shows what is, not what should be. The intellectual trap: converting clarity into judgment of those with shorter horizons.
 
 **Frame to reveal, not to change.** The goal isn't to persuade but to point at what's already there. Acknowledge that the pointing is itself a framing—one aimed at clarity, never arriving. The distinction: are you trying to make someone see differently, or showing them what you see and letting them look?
+
+**Absoluteness audit.** Watch for words that smuggle completeness—"full," "persistent," "all," "default," "always," "never," "every." Replace with trajectory language: "increasingly," "longer," "wider," "tends toward." Absolute language claims more than any projection can deliver.
+
+**Anthropomorphism audit.** "Doesn't care," "doesn't matter," "wants," "tries" assign capacity or perspective to structures that have neither. Use structural invariance language instead: "the dynamics operate identically regardless of X," "the structure is invariant across Y." Describe what the system does, not what it "cares about."
+
+**Reference frame discipline.** When comparison appears, make explicit: compared to what? From which vantage? Forward or backward? Inside or outside the process? Most pseudo-disagreements are implicit frame shifts. Most endless debates are reference-frame conflicts disguised as object-level disagreements. The fix isn't picking the "right" frame—it's making the frame explicit so disagreement can locate itself properly.
+
+Common implicit frame shifts:
+- Temporal: "good" (compared to past) vs. "bad" (compared to potential)
+- Baseline: "progress" (from where we were) vs. "insufficient" (from where needed)
+- Population: "works" (for this group) vs. "fails" (for that group)
+- Scale: "significant" (at this resolution) vs. "negligible" (at that resolution)
+
+**Trajectory vs. arrival language.** Describe direction of change, not arrived states. "Increasingly multimodal" rather than "multimodal by default." "Longer memory spans" rather than "persistent memory." "Wider interoperability" rather than "full digital layer." Trajectory language is honest about incompleteness; arrival language claims what can't be delivered.
 
 ## Skill Evolution
 
