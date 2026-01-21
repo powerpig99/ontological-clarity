@@ -68,7 +68,8 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── huberman-agency-post.md        # Constant vs. variable distinction
     ├── naval-ai-adaptation.md         # False dichotomy dissolution
     ├── extended-cognition.md          # Boundary-projection pattern
-    └── meaning-as-distinction.md      # From Transformers to ontology
+    ├── meaning-as-distinction.md      # From Transformers to ontology
+    └── iteration-threshold.md         # Iteration dynamics and resolution artifacts
 ```
 
 ## Epistemological Stance
