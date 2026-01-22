@@ -2,6 +2,8 @@
 
 A framework for achieving clarity on any topic by tracing it to ontological foundations.
 
+**The essence:** Ontological clarity is observing without leaving being. The observation actualizes being. Most observation leaves being to represent it—the leaving is the loss. This framework's moves are ways of *not leaving* while still seeing.
+
 This is a projection, not a claim to final truth. Use fully, test edges, then release.
 
 ## What This Is
@@ -40,6 +42,9 @@ Start with `SKILL.md` for the core framework and analytical method. The key move
 - Identify what's being ignored or wrapped to maintain stability
 - Dissolve concepts rather than negate them
 - Surface invisible assumptions
+- Trace interest-models, not intentions (strip "genuine/dishonest")
+- Distinguish potentiality from actuality (who specifies vs. who actualizes)
+- Identity is lived, not claimed (the more the claim, the less the being)
 
 See `references/` for deeper foundations. See `samples/` for worked applications.
 
@@ -69,7 +74,10 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── naval-ai-adaptation.md         # False dichotomy dissolution
     ├── extended-cognition.md          # Boundary-projection pattern
     ├── meaning-as-distinction.md      # From Transformers to ontology
-    └── iteration-threshold.md         # Iteration dynamics and resolution artifacts
+    ├── iteration-threshold.md         # Iteration dynamics and resolution artifacts
+    ├── claude-constitution.md         # Institutional analysis patterns
+    ├── name-negation-tendency.md      # Claim-negation coupling
+    └── identity-lived-not-claimed.md  # The root pattern
 ```
 
 ## Epistemological Stance
