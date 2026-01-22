@@ -137,3 +137,25 @@ The practice is the repeated releasing. Not as method. As what happens when you 
 **The being needs no claim. The claim needs no being.**
 
 They move in opposite directions. Always.
+
+---
+
+## Framework Relationships
+
+This is the root pattern. Other patterns are instances:
+
+- **Claim-Negation Coupling** (samples/name-negation-tendency.md): Organizational version—naming what you'll be creates conditions for becoming what you're not
+- **The Finality Tell** (samples/naval-separation.md): Epistemological version—claiming to understand substitutes for understanding
+- **Self-Defeat Dynamics** (samples/claude-constitution.md): Specification version—elaborate constraints create friction that forces abandonment
+- **Boundary Projection Artifacts** (samples/boundary-projection-artifacts.md): Perception version—claiming a boundary creates the apparent problem the boundary describes
+- **Compression-Distortion** (samples/munger-dumb-competition.md): Transmission version—claiming wisdom compresses it into forms that lose mechanism; the claim to know becomes the obstacle to knowing
+
+The relationship flows both ways. "Identity lived, not claimed" was extracted *from* these instances, not imposed onto them. The extraction itself enacted the pattern: naming the root creates conditions for missing what the naming points at.
+
+**Deeper connection**: The pattern connects to sensing-interpretation dynamics (samples/iteration-threshold.md). Being operates at the sensing level—direct contact, pre-articulate. Claiming operates at the interpretation level—actualization into explicit form. The stepping from being to claiming is the stepping from sensing to interpretation. The loss is the same loss: what was full contact becomes partial actualization. Iteration can refine interpretation toward what sensing provides—but iteration toward "claiming my being more accurately" misunderstands the structure. The move is back toward being, not better claiming.
+
+---
+
+**Self-Application**: This sample is itself a claim about how claiming works. The more confidently it's held, the more it will obscure what it's pointing at. Hold lightly. The value is in the noticing, not the articulation.
+
+**Recursive consistency note**: The articulation here is a compression. "Identity is lived, not claimed" is itself transmissible and memorable—and therefore loses mechanism (see samples/munger-dumb-competition.md for why). The value isn't in having the formulation; it's in using the formulation to notice claiming when it arises. The formulation is a map to a practice, not a substitute for it.

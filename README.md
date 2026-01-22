@@ -46,6 +46,8 @@ Start with `SKILL.md` for the core framework and analytical method. The key move
 - Distinguish potentiality from actuality (who specifies vs. who actualizes)
 - Identity is lived, not claimed (the more the claim, the less the being)
 - Check for the finality tell (arrival feeling = layer added, not removed)
+- Check if boundaries are ontological or definitional (draw differently, problem may dissolve)
+- Watch for compression-distortion (memorable form IS the distortion)
 
 See `references/` for deeper foundations. See `samples/` for worked applications.
 
@@ -72,14 +74,14 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── tools-as-amplifiers.md         # Agency and exponential dynamics
     ├── preemptive-safety.md           # Technology regulation feedback
     ├── huberman-agency-post.md        # Constant vs. variable distinction
-    ├── naval-ai-adaptation.md         # False dichotomy dissolution
-    ├── extended-cognition.md          # Boundary-projection pattern
+    ├── boundary-projection-artifacts.md # AI race + extended mind as same pattern
     ├── meaning-as-distinction.md      # From Transformers to ontology
     ├── iteration-threshold.md         # Iteration dynamics and resolution artifacts
     ├── claude-constitution.md         # Institutional analysis patterns
     ├── name-negation-tendency.md      # Claim-negation coupling
     ├── identity-lived-not-claimed.md  # The root pattern
-    └── naval-separation.md            # Finality tell pattern
+    ├── naval-separation.md            # Finality tell pattern
+    └── munger-dumb-competition.md     # Compression-distortion, horizon-consequence
 ```
 
 ## Epistemological Stance

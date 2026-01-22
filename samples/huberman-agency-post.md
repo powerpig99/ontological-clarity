@@ -65,6 +65,8 @@ The advice presupposes the shift it's trying to produce.
 
 But most self-improvement advice has a different shape: "You lack X for achieving A, so do B"—where B quietly requires X. The deficiency is assumed, then the prescription demands what's supposedly missing.
 
+**The identity pattern operates here too**: The "junkyard dogs" aren't claiming to be exceptional. They're just acting. The moment someone starts identifying as a junkyard dog, the dynamic shifts—they're now performing the identity rather than living it. The ones who actually embody it need no label; the label would be a distraction from the doing.
+
 The question that gets skipped: what shifts alignment in the first place? Not "what should you do once aligned"—that part is obvious once you're there. But what causes the shift from pointing at comfort to pointing at growth?
 
 The junkyard dog observation hints at one answer: removing comfortable alternatives forces the redirection. But that's descriptive, not prescriptive. You can't advise someone to "have their options removed."
@@ -76,3 +78,16 @@ Sometimes it does.
 ---
 
 *Freedom of choice is innate. What varies is its alignment with reality—external conditions, internal truths, stated goals. Tools don't compensate for missing agency; they extend the reach of whatever alignment you've achieved.*
+
+---
+
+## Framework Elements Applied
+
+1. **Constant-Variable Distinction**: Freedom of choice is constant; alignment is the variable. The "high agency" framing smuggles quantity where direction operates.
+2. **Substrate-Script Distinction**: External conditions are terrain, not instructions. They constrain but don't determine.
+3. **Identity Lived, Not Claimed**: The junkyard dogs aren't claiming to be exceptional—they're acting. The identity pattern predicts that those who start claiming "I'm a junkyard dog" will shift from embodying to performing.
+4. **The Self-Defeating Advice Structure**: "Build resilience" presupposes the capacity it's trying to produce. The advice assumes the shift already occurred.
+5. **The Finality Tell (implicit)**: The advice "you're not a junkyard dog, so compensate" provides relief through classification. The relief is a layer settling, not clarity achieved. What gets closed: inquiry into what actually shifts alignment.
+6. **Compression-Distortion**: "Junkyard dog" compresses a complex relationship between conditions, alignment, and revealed capacity. The memorable label propagates; the mechanism (removal of comfortable alternatives forcing alignment revelation) doesn't.
+
+**Structural connection**: See samples/tools-as-amplifiers.md for the full exponential model (O = e^(A × T × t / Δt)) that formalizes how alignment differences compound through tools. See samples/identity-lived-not-claimed.md for why the labeling ("junkyard dog") shifts the dynamic.

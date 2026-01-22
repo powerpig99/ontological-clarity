@@ -625,6 +625,87 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 
 **Connection**: Extends "clarity is repeated movement, never arrival" from epistemological foundation into practical diagnostic. Related to Claim-Negation Coupling (confident claims predict failure axis) and Identity Lived Not Claimed (the claim substitutes for the being).
 
+---
+
+### The Horizon-Consequence Tradeoff
+
+**Pattern**: Optimizing for probability of local wins trades against magnitude of consequential outcomes. Low-variance strategies select for low-stakes games.
+
+**Mechanism**:
+1. Consequentiality scales with stakes
+2. Stakes scale with capability of participants
+3. Selecting for "easy wins" (dumb competition, legible value, bounded downside) selects for low-stakes domains
+4. Low stakes = bounded upside by definition
+5. Transformational outcomes require accepting high-stakes, high-uncertainty games
+
+**The Arithmetic**:
+- "Dumb competition" plays compound steadily but within bounds
+- Transformational investments (Google, early Apple, Nvidia) require entering "smart competition"
+- Miss the transformational plays and local wins become rounding errors against what was possible
+- Berkshire's actual returns came from outliers, not the "dumb competition" plays
+
+**The Self-Defeating Structure**: If everyone follows "find easy wins," the advice points toward:
+- Domains with slower iteration speeds
+- Lower consequentiality per win
+- Bounded upside—you beat incumbents, then become one
+
+**Application**: When evaluating competitive strategy advice, check the horizon-consequence tradeoff. Does this advice optimize for probability at the cost of magnitude? What's being traded away for variance reduction?
+
+**Connection**: Related to Finite/Infinite Game confusion (finite framing obscures positive-sum expansion), Preemptive Inversion (safe positioning selects against transformational outcomes), and the Finality Tell (the advice feels like arrival, closing inquiry about magnitude questions).
+
+---
+
+### The Compression-Distortion Pattern
+
+**Pattern**: Wisdom compressed for transmission necessarily loses mechanism. The memorable form IS the distortion. Transmission requirements create reception obstacles.
+
+**Mechanism**:
+1. Insight emerges from tracing mechanism
+2. Mechanism has multiple variables, conditions, reference-frame dependencies
+3. Transmission requires compression into memorable form
+4. Compression discards conditions, collapses variables, fixes reference frame
+5. Memorable form propagates; mechanism doesn't
+6. Receivers get the compression, not the insight
+7. Compression becomes "the wisdom" precisely because it's transmissible
+
+**Instances**:
+- "Dumb competition" = compression of (Δt differential + alignment asymmetry + game structure + legibility preference + bounded downside optimization)
+- "High agency" = compression of (alignment direction + tool leverage + iteration speed)
+- "Work smart not hard" = compression of (alignment to objective + iteration efficiency + leverage selection)
+- "Follow your passion" = compression of (alignment to intrinsic motivation + market fit + skill development trajectory)
+
+**The Paradox**: The more transmissible, the more distorted. The more accurate, the less transmissible. No stable point—only the tradeoff.
+
+**Application**: When encountering memorable wisdom, ask: What mechanism was compressed into this? What variables were collapsed? What conditions were discarded? The memorable form is the map to what was lost.
+
+**Connection**: Related to Finality Tell (compressed wisdom feels like arrival), Packaging-as-Obstacle in naval-separation sample, and the epistemological foundation (every revelation deceives by the same act that illuminates).
+
+---
+
+### Resonance Depth and Mobility
+
+**Pattern**: All communication operates through resonance—no transmission bypasses it. The distinction isn't resonance vs. non-resonance but what it resonates with at what resolution, and the ability to shift across resolutions.
+
+**Mechanism**:
+1. Transmission occurs only when content resonates with structure already present in receiver
+2. Broad resonance = connects with widely shared surface patterns, requires minimal prerequisite structure
+3. Deep resonance = connects with structures built through prior iteration, narrower initially but links across more domains
+4. Clarity isn't a fixed view but mobility across views
+
+**The Depth-Breadth Tradeoff**:
+- Munger's "dumb competition": broad, shallow—resonates with "competing is hard" experience, requires no framework
+- "Δt differential + alignment + game structure": narrower—requires exponential model, alignment concept, sum-type distinction—but connects to more once prerequisites are present
+
+**Mobility as Clarity**: The ability to:
+1. Take a frame (Munger's advice)
+2. See what it captures at its scale (sound competitive selection)
+3. Shift to see what it excludes (magnitude tradeoff, infinite-game possibilities)
+4. Shift again to see why the compression happened (his constraints, his objectives, transmission requirements)
+
+**Application**: When evaluating communication, don't ask "is this true" (frame-dependent). Ask: What does this resonate with? At what resolution? What prerequisite structure is assumed? What mobility does it enable or foreclose?
+
+**Connection**: Extends epistemological foundation (stepping-outside paradox, frame to reveal not change). Related to Context Alignment as Truth Condition (truth as resonance across aligned contexts). The goal isn't escaping resonance but navigating it with less friction.
+
 ## Application Template
 
 1. **Identify moral framing** obscuring the topic
@@ -650,3 +731,6 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 21. **Trace interest-model collision**: What interest-models are colliding to produce this output?
 22. **Check claim-negation coupling**: What confident claims define this entity? These predict the axis of failure. How tightly is the claim held? The tighter the grip, the faster the inversion.
 23. **Check for finality tell**: Does this insight feel like arrival? The stronger the closure feeling, the more likely a layer was added rather than removed.
+24. **Check horizon-consequence tradeoff**: Does this advice/strategy optimize for probability of local wins at the cost of consequence magnitude?
+25. **Trace compression-distortion**: What mechanism was compressed into this memorable form? What variables collapsed? What conditions discarded?
+26. **Assess resonance mobility**: Does this enable or foreclose the ability to shift across frames? Is clarity being treated as fixed view or as mobility?

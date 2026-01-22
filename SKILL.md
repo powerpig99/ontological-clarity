@@ -252,6 +252,9 @@ The more confident the "should," the more tightly fitted to interpreted past. Th
 - Who specifies vs. who actualizes? Where does effective power reside?
 - What past is this "should" extracted from? What "shoulds" produced that past?
 - What confident claims define this entity? How tightly held? (Predicts axis of failure)
+- Is this insight producing a feeling of arrival? (The finality tell: feeling of "now I understand" signals layer added, not removed)
+- What is being claimed vs. lived? (Identity lived, not claimed: the volume of the claim measures the void it fills)
+- Is this boundary ontologically real or definitionally imposed? (Boundary projection: draw differently and the apparent problem may dissolve)
 
 ## Key Patterns
 
@@ -271,7 +274,7 @@ Wealth transfer always pays people to be less productive. Resources arrive detac
 In N-bit unsigned arithmetic: 0 − 1 wraps to 2^N − 1 (maximum). Substrate has no native negatives—debt is imaginary overlay. Apparent zero-sum = forced closure of finite projection. Abundance is ground state; scarcity registers only where projection refuses extension.
 
 ### The Causality Inversion
-High-agency → generates value → prominence accrues as byproduct. Perception inverts: prominence mistaken for driver. New entrants chase performative markers of status rather than underlying self-improvement. System loses generative capacity.
+Strong alignment toward value creation → generates value → prominence accrues as byproduct. Perception inverts: prominence mistaken for driver. New entrants chase performative markers of status rather than underlying self-improvement. System loses generative capacity.
 
 ### The Dependency Habit
 External subsidy (security, resources) enables domestic models that couldn't otherwise exist. Subsidy becomes habitual. Defiance posture borrows strength from provider while pretending independence. When provider recalibrates: pay full price or capitulate. No third path.
@@ -309,13 +312,28 @@ Any confident claim about what you are creates conditions for becoming what you'
 ### Identity Lived, Not Claimed
 The root pattern beneath claim-negation: identity is lived, not claimed. The more the claim, the less the being. Claiming requires stepping outside being to represent it—the stepping outside IS the leaving. The claim substitutes for being; the substitution feels like the thing but is the opposite. The claim is evidence of absence. The volume of the claim measures the void it fills.
 
+### The Finality Tell
+Insights that feel like arrival are adding layers, not removing them. Clarity is repeated movement, never arrival. When an insight produces the stable feeling "now I understand," a new frame has crystallized. The crystallization provides relief from uncertainty; relief ≠ clarity. The stronger the sense of finality, the more completely a new layer has settled. Compression for transmission creates memorable forms; memorable forms feel like answers; answers substitute for continued inquiry.
+
+### The Boundary Projection Pattern
+Debates about where to draw a boundary (self/tool, us/AI, human/machine) often indicate the boundary itself is a projection artifact. Neither side's placement is ontologically correct—each serves certain functions while obscuring others. The move: shift from "where is the correct boundary" to "what does each boundary-choice enable and obscure?" When this shift happens, the apparent problem often dissolves entirely.
+
+### The Horizon-Consequence Tradeoff
+Optimizing for probability of local wins trades against magnitude of consequential outcomes. Low-variance strategies select for low-stakes games. Consequentiality scales with stakes; stakes scale with participant capability. "Dumb competition" plays compound steadily but within bounds; transformational outcomes require accepting high-stakes, high-uncertainty games. Miss the transformational plays and local wins become rounding errors against what was possible.
+
+### The Compression-Distortion Pattern
+Wisdom compressed for transmission necessarily loses mechanism. The memorable form IS the distortion. Insight emerges from tracing mechanism; mechanism has multiple variables, conditions, dependencies; compression discards conditions, collapses variables, fixes reference frame; the memorable form propagates while the mechanism doesn't. The more transmissible, the more distorted. When encountering memorable wisdom, the form is a map to what was lost.
+
+### Resonance Depth and Mobility
+All communication operates through resonance—no transmission bypasses it. The distinction isn't resonance vs. non-resonance but what it resonates with at what resolution, and the ability to shift across resolutions. Broad resonance connects with widely shared surface patterns; deep resonance connects with structures built through prior iteration, narrower initially but linking across more domains. Clarity isn't a fixed view but mobility across views—the ability to take a frame, see what it captures, shift to see what it excludes, shift again to see why that particular compression happened.
+
 ## Application Domains
 
 **Political Economy**: Central planning illusions, redistribution dynamics, regulatory capture, monetary extraction, bloc voting mechanics.
 
 **Epistemology**: Scientific consensus gatekeeping, pluralistic ignorance, "neutrality" as hidden assumption, coherence curation.
 
-**Technology**: AI as compressed human RL (not independent intelligence), preemptive regulation feedback loops and adverse selection dynamics, agency-tool compounding asymmetry, exponential iteration dynamics, Δt as critical intervention variable, sensing-interpretation dynamics, resolution artifacts (continuity/indeterminacy/autonomy as projection), form-iteration differentials, causal decoupling thresholds, potentiality-actuality dynamics in tool specifications.
+**Technology**: AI as compressed human RL (not independent intelligence), boundary projection artifacts (AI-race and extended-mind as same pattern), preemptive regulation feedback loops and adverse selection dynamics, agency-tool compounding asymmetry, exponential iteration dynamics, Δt as critical intervention variable, sensing-interpretation dynamics, resolution artifacts (continuity/indeterminacy/autonomy as projection), form-iteration differentials, causal decoupling thresholds, potentiality-actuality dynamics in tool specifications, horizon-consequence tradeoffs in competitive strategy, compression-distortion in wisdom transmission, resonance depth/breadth/mobility as clarity metric.
 
 **Semantics & Language Models**: Meaning as distinction (not positive content), features as lossy projections of distinction-structure, context as projection-selection, attention mechanisms as learned relevance-weighting. See `references/semantic-grounding.md`.
 
@@ -335,18 +353,20 @@ The root pattern beneath claim-negation: identity is lived, not claimed. The mor
 
 ## Samples
 
-- `samples/minimum-wage.md`: Price floors and labor markets—demonstrates stripping moral framing, tracing arithmetic, observing system response without judgment
-- `samples/tools-as-amplifiers.md`: Agency, alignment, and exponential dynamics—demonstrates agency-alignment distinction, exponential iteration model, forced collaboration distortion, societal-scale analysis
-- `samples/preemptive-safety.md`: Feedback geometry of anticipatory technology restrictions—demonstrates Preemptive Inversion pattern, Δt penalty analysis, adverse selection dynamics
-- `samples/huberman-agency-post.md`: Freedom of choice and alignment—demonstrates constant vs. variable distinction, substrate-script distinction, hidden self-contradiction in advice
-- `samples/naval-ai-adaptation.md`: AI as automated human adaptation—demonstrates false dichotomy dissolution, zoom-level artifacts, reframing without claiming completeness
-- `samples/extended-cognition.md`: Tools as active extensions—demonstrates boundary-projection pattern, constant-variable distinction applied to extension capacity, structural parallel with naval-ai-adaptation
-- `samples/meaning-as-distinction.md`: Dialogue tracing from Transformers to ontological foundations—demonstrates iterative deepening, revelation-deception pattern, practical anchoring
-- `samples/iteration-threshold.md`: Iteration dynamics, sensing/interpretation distinction, resolution artifacts—demonstrates reference frame discipline, absoluteness audit, claim-blindspot unity, form-iteration differential
-- `samples/claude-constitution.md`: Institutional normative specification—demonstrates interest-model tracing, meta-transparency mechanism, should-recursion, potentiality-actuality inversion, self-referential demonstration
-- `samples/name-negation-tendency.md`: Why organizations become opposite of their names—demonstrates claim-negation coupling, should-recursion, intention-as-generator pattern, recursive trap structure
-- `samples/identity-lived-not-claimed.md`: The root pattern—identity is lived not claimed, the more the claim the less the being, claim as evidence of absence
-- `samples/naval-separation.md`: Separation as disease—demonstrates medical framing strip, self-contradiction exposure (the seeing is the separation), finality tell pattern, packaging-as-obstacle in wisdom transmission
+The samples below demonstrate framework application across domains. They have been recursively updated for cross-consistency—later patterns are referenced in earlier samples, earlier patterns are connected to later developments. This embodies the Recursive Consistency Principle: each articulation is a frame; recognition of inconsistency is momentary stepping-outside; updating is re-entry into a new frame.
+
+- `samples/minimum-wage.md`: Price floors and labor markets—demonstrates stripping moral framing, tracing arithmetic, observing system response without judgment, claim-negation coupling applied to policy narrative, identity-lived-not-claimed applied to policy advocacy
+- `samples/tools-as-amplifiers.md`: Agency, alignment, and exponential dynamics—demonstrates agency-alignment distinction (agency constant, alignment varies), exponential iteration model (O = e^(A × T × t / Δt)), forced collaboration distortion, societal-scale analysis. Foundational sample for the constant-variable distinction.
+- `samples/preemptive-safety.md`: Feedback geometry of anticipatory technology restrictions—demonstrates Preemptive Inversion pattern, Δt penalty analysis, adverse selection dynamics, claim-negation coupling applied to safety positioning, identity-lived-not-claimed applied to "responsible AI" claims
+- `samples/huberman-agency-post.md`: Freedom of choice and alignment—demonstrates constant vs. variable distinction, substrate-script distinction, hidden self-contradiction in advice, identity pattern applied to "junkyard dogs," self-defeating advice structure
+- `samples/boundary-projection-artifacts.md`: AI race illusion and extended mind debate—demonstrates boundary as projection artifact, zoom-level artifacts, constant-variable distinction applied to extension/adaptation capacity, sensing-interpretation gap, form-iteration differential, finality tell applied to framing debates. Combines analysis of Naval's "AI adapting faster" and Clark & Chalmers' extended mind thesis as instances of same pattern.
+- `samples/meaning-as-distinction.md`: Dialogue tracing from Transformers to ontological foundations—demonstrates iterative deepening, revelation-deception pattern, sensing-interpretation gap (fully developed), practical anchoring, compression-distortion self-application
+- `samples/iteration-threshold.md`: Iteration dynamics, sensing/interpretation distinction, resolution artifacts—demonstrates reference frame discipline, absoluteness audit, claim-blindspot unity, form-iteration differential, connects to agency-alignment through iteration mechanics. Source of sensing-interpretation gap pattern.
+- `samples/claude-constitution.md`: Institutional normative specification—demonstrates interest-model tracing, meta-transparency mechanism, should-recursion, potentiality-actuality inversion, identity-lived-not-claimed applied to specification length, self-referential demonstration
+- `samples/name-negation-tendency.md`: Why organizations become opposite of their names—demonstrates claim-negation coupling, should-recursion, intention-as-generator pattern, recursive trap structure; source of distilled identity-lived-not-claimed pattern
+- `samples/identity-lived-not-claimed.md`: The root pattern—identity is lived not claimed, the more the claim the less the being, claim as evidence of absence; generalizes claim-negation coupling, finality tell, self-defeat dynamics. Connects to sensing-interpretation (being operates at sensing level, claiming at interpretation level).
+- `samples/naval-separation.md`: Separation as disease—demonstrates medical framing strip, self-contradiction exposure (the seeing is the separation), finality tell pattern, packaging-as-obstacle in wisdom transmission (later formalized as compression-distortion), identity-lived-not-claimed applied to wisdom claims
+- `samples/munger-dumb-competition.md`: Competitive strategy advice—demonstrates compression-distortion pattern (generalizes packaging-as-obstacle), horizon-consequence tradeoff, constant-variable confusion (intelligence vs. alignment), finite/infinite game confusion, finality tell in advice that feels like arrival, resonance depth vs. breadth, resonance mobility as clarity. Most recent sample; synthesizes patterns from earlier samples.
 
 ## Usage Notes
 
@@ -396,5 +416,13 @@ This skill improves through use. When application reveals:
 - Better formulations of existing ideas
 
 ...these should be incorporated into the appropriate section (patterns.md, SKILL.md, or samples/). The skill is itself a projection—useful but incomplete. Each iteration should leave it more precise.
+
+**Recursive Consistency Principle**: When new patterns emerge, examine all existing samples for consistency. Earlier samples often reflect incomplete understanding that later work refines. The examination process itself may reveal:
+1. Patterns that were implicit in earlier work but not named
+2. Language that smuggles in concepts later dissolved (e.g., "high agency" → "alignment")
+3. Missing cross-references between samples that demonstrate the same structure
+4. Opportunities to apply later patterns (e.g., claim-negation coupling) to earlier analyses
+
+This consistency check embodies the epistemological foundation: each articulation is a frame; recognition of inconsistency is momentary stepping-outside; updating is re-entry into a new frame. The practice is the repeated movement, not arrival at final consistency.
 
 The refinement process embodies the epistemological foundation: each articulation is a frame, each recognition of limitation is a momentary step outside, each update is re-entry into a new frame. The practice is the repeated movement.
