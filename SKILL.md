@@ -255,6 +255,7 @@ The more confident the "should," the more tightly fitted to interpreted past. Th
 - Is this insight producing a feeling of arrival? (The finality tell: feeling of "now I understand" signals layer added, not removed)
 - What is being claimed vs. lived? (Identity lived, not claimed: the volume of the claim measures the void it fills)
 - Is this boundary ontologically real or definitionally imposed? (Boundary projection: draw differently and the apparent problem may dissolve)
+- Is a pattern being reified as entity, then anthropomorphized as agent? (Reification-anthropomorphism chain: mechanism → morality → advocacy)
 
 ## Key Patterns
 
@@ -326,6 +327,9 @@ Wisdom compressed for transmission necessarily loses mechanism. The memorable fo
 
 ### Resonance Depth and Mobility
 All communication operates through resonance—no transmission bypasses it. The distinction isn't resonance vs. non-resonance but what it resonates with at what resolution, and the ability to shift across resolutions. Broad resonance connects with widely shared surface patterns; deep resonance connects with structures built through prior iteration, narrower initially but linking across more domains. Clarity isn't a fixed view but mobility across views—the ability to take a frame, see what it captures, shift to see what it excludes, shift again to see why that particular compression happened.
+
+### The Reification-Anthropomorphism Chain
+Converts mechanism into morality through four steps: reify pattern as entity → anthropomorphize as agent → assign moral properties → close inquiry. Each step enables the next. The chain compresses distributed mechanism into singular moral target—enables mobilization, destroys accuracy.
 
 ## Application Domains
 

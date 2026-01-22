@@ -770,3 +770,4 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 24. **Check horizon-consequence tradeoff**: Does this advice/strategy optimize for probability of local wins at the cost of consequence magnitude?
 25. **Trace compression-distortion**: What mechanism was compressed into this memorable form? What variables collapsed? What conditions discarded?
 26. **Assess resonance mobility**: Does this enable or foreclose the ability to shift across frames? Is clarity being treated as fixed view or as mobility?
+27. **Check reification-anthropomorphism chain**: Is a distributed pattern being treated as unified entity? Is a vector sum being treated as singular agent? Has mechanism become morality?
