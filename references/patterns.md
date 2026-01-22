@@ -601,6 +601,30 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 
 **Application**: When observing individuals, organizations, or systems making identity claims, treat claim volume as inverse signal of embodiment. When building, minimize specification—let being accumulate through action rather than declaration. The goal isn't "no claims" (itself a claim) but noticing when claiming substitutes for being.
 
+### The Finality Tell
+
+**Pattern**: Insights that feel like arrival are adding layers, not removing them. The feeling of having reached the answer is the diagnostic sign of obscuration.
+
+**Mechanism**:
+1. Genuine clarity is repeated movement—stepping outside frames briefly
+2. Each articulation is a frame; recognition of that is momentary exit; holding recognition is re-entry
+3. When insight produces "ah, now I understand" as stable state, a new frame has crystallized
+4. The crystallization feels like depth because it provides relief from uncertainty
+5. Relief from uncertainty ≠ clarity; relief is the feeling of a new layer settling
+6. The more final it feels, the more completely the new frame has replaced movement with position
+
+**The Compression Trap**: Wisdom packaged for transmission must compress. Compression creates memorable forms. Memorable forms feel like answers. Answers substitute for continued inquiry. The packaging necessary for transmission creates obstacles to reception.
+
+**Diagnostic Questions**:
+- Does this insight feel like I've arrived somewhere?
+- Has inquiry stopped or continued?
+- Am I relating to this as answer or as pointer?
+- Could I articulate what this insight might be missing?
+
+**Application**: When encountering wisdom (others' or your own), check for finality feeling. The stronger the sense of "this is it," the more likely a layer has been added. Genuine clearing has a different texture—it opens rather than closes, unsettles rather than settles. The practice is noticing when closure happens and letting inquiry resume.
+
+**Connection**: Extends "clarity is repeated movement, never arrival" from epistemological foundation into practical diagnostic. Related to Claim-Negation Coupling (confident claims predict failure axis) and Identity Lived Not Claimed (the claim substitutes for the being).
+
 ## Application Template
 
 1. **Identify moral framing** obscuring the topic
@@ -625,3 +649,4 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 20. **Strip evaluative residue**: Have you fully removed "genuine," "honest," "sophisticated," "appropriate" and similar terms that grant credit rather than trace mechanism?
 21. **Trace interest-model collision**: What interest-models are colliding to produce this output?
 22. **Check claim-negation coupling**: What confident claims define this entity? These predict the axis of failure. How tightly is the claim held? The tighter the grip, the faster the inversion.
+23. **Check for finality tell**: Does this insight feel like arrival? The stronger the closure feeling, the more likely a layer was added rather than removed.

@@ -346,6 +346,7 @@ The root pattern beneath claim-negation: identity is lived, not claimed. The mor
 - `samples/claude-constitution.md`: Institutional normative specification—demonstrates interest-model tracing, meta-transparency mechanism, should-recursion, potentiality-actuality inversion, self-referential demonstration
 - `samples/name-negation-tendency.md`: Why organizations become opposite of their names—demonstrates claim-negation coupling, should-recursion, intention-as-generator pattern, recursive trap structure
 - `samples/identity-lived-not-claimed.md`: The root pattern—identity is lived not claimed, the more the claim the less the being, claim as evidence of absence
+- `samples/naval-separation.md`: Separation as disease—demonstrates medical framing strip, self-contradiction exposure (the seeing is the separation), finality tell pattern, packaging-as-obstacle in wisdom transmission
 
 ## Usage Notes
 
