@@ -104,7 +104,7 @@ The worker who keeps their job at $15/hour can be interviewed. The worker who ne
 
 The narrative "minimum wage helps workers" persists across decades. This persistence is itself a phenomenon worth observing.
 
-Narratives persist when they resonate with enough interests to sustain themselves. Not because they're true or false, but because they're useful to enough participants.
+Narratives persist when they resonate with enough interest-models to sustain themselves. Not because they're true or false, but because they're useful to enough participants.
 
 Who finds this narrative useful?
 
@@ -114,6 +114,8 @@ Who finds this narrative useful?
 - **Capital-intensive competitors**: Relative advantage when labor costs rise uniformly
 
 Multiple parties benefit from the same narrative for different reasons. The narrative sustains itself through this convergence.
+
+**The claim-negation pattern operates here**: The claim "this helps workers" is structurally coupled to its negation. The more confidently held, the more precisely it predicts the axis of harm. The intention to help creates the friction that produces its opposite—not through hypocrisy but through the ordinary operation of the mechanism.
 
 ---
 
@@ -160,5 +162,8 @@ This sample applies:
 2. **Trace the Arithmetic**: V vs M calculation, individual capability = 1
 3. **Show Interventions Produce Their Opposite**: System responses that offset or reverse intention
 4. **Identify Perspective-Switching Exploits**: Visible beneficiaries vs invisible effects
-5. **Identify Resonance Artifacts**: Narrative persistence through convergent interest
+5. **Identify Resonance Artifacts**: Narrative persistence through convergent interest-models
 6. **Information Horizons**: Different vantage points producing different models, none complete
+7. **The Claim-Negation Coupling**: "Helps workers" claim structurally coupled to harming workers; intention creates conditions for its opposite
+8. **Identity Lived, Not Claimed**: The louder the claim "we help workers," the more it compensates for the mechanism producing the opposite. The policy advocates who most vocally claim worker-advocacy are precisely those whose position depends on worker problems persisting (see samples/name-negation-tendency.md, samples/identity-lived-not-claimed.md)
+9. **The Finality Tell (implicit)**: The narrative "minimum wage helps workers" feels like an answer—it closes inquiry rather than opening it. That closure feeling is diagnostic: a layer has been added (moral framing) rather than removed (mechanism exposed)

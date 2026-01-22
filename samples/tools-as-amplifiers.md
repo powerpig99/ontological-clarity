@@ -526,8 +526,14 @@ The probing continues.
 6. **Information Horizons**: Different projections producing different horizons producing different alignments—all locally rational
 7. **System Response**: Distribution shifts, selection pressure changes, exponential diversification across all alignment levels
 8. **Visibility Asymmetry**: Alignment differences invisible when other constraints bind; revealed when removed
-9. **Resonance Artifacts**: Collective-contribution narratives persist because they serve the alignment of the numerical majority
+9. **Resonance Artifacts**: Collective-contribution narratives persist because they serve the interest-models of the numerical majority
 10. **The Vector Sum Exposed**: Forced collaboration averaged different alignments; dissolution reveals the true distribution
 11. **The Tipping Minority Inverted**: Output concentrated in tiny minority; narrative dominated by vast majority; decoupling approaches
 12. **The Self-Perpetuation Trap**: Collective-contribution narrative serves those it describes; resists correction from within
 13. **Projection Artifact Identified**: "Collapse of the middle" is fixed-horizon distortion; all levels grow exponentially, gaps widen relatively
+14. **Identity Lived, Not Claimed (implicit)**: The "high agency" individuals aren't claiming agency—they're building. The claim "I have high agency" would itself redirect agency toward claim-maintenance
+15. **Form-Iteration Differential (implicit)**: The collaborative structure imposed a form-level constraint (team iteration speed) on process-level iteration (individual building). Dissolution removes the differential.
+16. **Claim-Negation Coupling (implicit)**: The "collective contribution" narrative is precisely the claim that predicts its own failure axis. The more confidently an organization claims "we all contribute equally," the more precisely this identifies where contribution inequality will become visible. (See samples/name-negation-tendency.md)
+17. **Compression-Distortion (implicit)**: "High agency" is a compression that loses the mechanism. It propagates because it's memorable; the full structure (alignment × iteration × tool leverage × time) doesn't. This sample traces what the compression collapses. (See samples/munger-dumb-competition.md)
+
+**Structural connections**: This sample develops the agency-alignment distinction that samples/huberman-agency-post.md applies to self-help advice and samples/preemptive-safety.md applies to AI governance. The exponential model (O = e^(A × T × t / Δt)) recurs across samples/iteration-threshold.md (sensing-interpretation dynamics), samples/preemptive-safety.md (Δt penalties), and samples/munger-dumb-competition.md (horizon-consequence tradeoffs).

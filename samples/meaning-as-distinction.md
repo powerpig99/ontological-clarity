@@ -88,11 +88,13 @@ The drift itself demonstrated the point. Each step felt like better understandin
 
 **Iterative Deepening**: Each level didn't replace the previous—it revealed the previous as a projection from a wider context. The technical explanation of Transformers remains valid; it's now seen as application of deeper structure.
 
-**Revelation-Deception Unity**: Each insight risked becoming a new resting place. The conversation kept moving—not from dissatisfaction, but because the movement itself was the point.
+**Revelation-Deception Unity**: Each insight risked becoming a new resting place. The conversation kept moving—not from dissatisfaction, but because the movement itself was the point. This is the root of what later crystallized as "the finality tell": insights that feel like arrival are adding layers, not removing them. It also connects to "identity lived, not claimed": the moment the insight becomes "I understand this," it has shifted from lived understanding to claimed understanding—and the claim substitutes for the being. (See samples/identity-lived-not-claimed.md, samples/naval-separation.md.)
 
 **Practical Anchoring**: The return to original context wasn't retreat. It was demonstrating that ontological clarity serves understanding, not replaces it. The deep structure illuminates the technical mechanism; the technical mechanism grounds the deep structure.
 
 **Dissolution vs. Negation**: Several key moves dissolved concepts rather than denied them. "No stop" vs. "can't stop." "No self" vs. "self doesn't exist." The deeper move shows the concept doesn't parse, not that the referent is absent.
+
+**Sensing-Interpretation Gap**: The trajectory itself—from technical to ontological—enacts the sensing-interpretation relationship. The sensing was always there; each iteration actualized more of what was already sensed. The conversation didn't discover new territory; it actualized distinctions that were already operative in the starting question about Transformers. This is the core mechanism of iteration: sensing operates at fundamental limits; interpretation lags; iteration actualizes more of what sensing already provides. (See samples/iteration-threshold.md for full development of this pattern.)
 
 ## Key Formulations
 
@@ -115,3 +117,5 @@ This dialogue demonstrates how the ontological framework can:
 4. Return to practice (the deep dive serves the original question, doesn't replace it)
 
 The conversation didn't "arrive" anywhere. It traced a path that illuminated the territory—and the path itself was the point.
+
+**Note on Compression**: The formulations above are compressions. Each loses mechanism in transmission. "Meaning is distinction" is true but loses the full apparatus of how distinctions get projected, selected, and collapsed. The compression-distortion pattern (see samples/munger-dumb-competition.md) applies here: these memorable forms are maps to what was traced, not substitutes for the tracing. Their value is as pointers back to the trajectory, not as terminal understanding.

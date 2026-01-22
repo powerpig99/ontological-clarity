@@ -152,4 +152,9 @@ Divergence follows. It always does, when actualization rates differ.
 
 ---
 
-**Structural parallel**: See also samples/extended-cognition.md—boundary-projection pattern applied similarly. See also samples/tools-as-amplifiers.md—exponential iteration dynamics.
+**Structural parallel**: See also samples/boundary-projection-artifacts.md—boundary-projection pattern applied to AI/human and self/tool distinctions. See also samples/tools-as-amplifiers.md—exponential iteration dynamics (O = e^(A × T × t / Δt)) applied to individual alignment variance. The sensing-interpretation gap explains *why* iteration works: sensing already operates at limit-resolution; iteration actualizes more of what sensing provides. The agency-alignment distinction clarifies *what* iterates: not "more" or "less" agency, but the same agency aligned toward different objectives, compounding at different rates on different axes.
+
+**Connections to later patterns**:
+- **Identity Lived, Not Claimed**: The claim "I see where this is going" (claim-blindspot unity) is an instance of identity-lived-not-claimed. Claiming to see substitutes for the seeing. The claim to understand iteration dynamics is not the same as iterating. (See samples/identity-lived-not-claimed.md)
+- **The Finality Tell**: "Nobody has seen anything yet" could itself produce a finality feeling—"now I understand why nobody can predict." That feeling is diagnostic. The title is self-implicating for this reason: if reading it produces closure rather than continued movement, the reading has missed the point.
+- **Compression-Distortion**: This piece is itself a compression. The mechanism it traces (sensing-interpretation-iteration) is richer than the articulation. The articulation is transmissible; the full mechanism requires the iterating reader to actualize more than the words provide. (See samples/munger-dumb-competition.md)

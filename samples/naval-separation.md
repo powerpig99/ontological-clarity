@@ -59,6 +59,23 @@ His particular gift: making insights feel final. The feeling of finality is the 
 
 Clarity is repeated movement, never arrival. Anything that feels like you've reached the answer has added a layer, not removed one.
 
+**The identity pattern operates here too**: Naval claiming to see the disease is Naval stepping outside the human condition to evaluate it. The claim to see separation-as-fundamental-disease is itself an identity claim—"I am the one who sees." The more confidently held, the more it enacts what it diagnoses. Identity is lived, not claimed. The seeing could have remained lived—continuous noticing without reification. Crystallizing it into "the fundamental disease" turns seeing into claiming.
+
 ---
 
 *The cure he implies—recognizing separation as disease—deepens rather than dissolves what it names.*
+
+---
+
+## Framework Elements Applied
+
+1. **Strip Medical Framing**: "Disease" implies pathology; separation is how distinction works
+2. **Trace the Mechanism**: Distinction → interpretation of lack → resistance → suffering. Three layers, not two.
+3. **Self-Contradiction Exposure**: The claim to see separation enacts separation
+4. **The Finality Tell**: Insights that feel like arrival add layers; Naval's aphorisms feel final—that's the diagnostic
+5. **Identity Lived, Not Claimed**: The seeing could remain lived; crystallizing into "fundamental disease" turns it into claiming
+6. **Packaging-as-Obstacle**: Compression for transmission creates obstacles to reception
+7. **Compression-Distortion**: "Separation is the disease" compresses distinction-structure → interpretation layer → resistance layer → suffering. The compression loses the layering. The memorable form propagates while the mechanism doesn't. The compression becomes the obstacle. (See samples/munger-dumb-competition.md for full development.)
+8. **Resonance Mobility (implicit)**: Naval's aphorism resonates broadly precisely because it collapses mechanism into memorable form. The resonance is shallow—connects with widely shared "something is wrong" feeling without requiring the structure to parse it. Deeper resonance would connect with how distinction works, why interpretation-as-lack arises, where the release actually happens. Clarity would be mobility between these resolutions, not settling into either.
+
+**Structural connection**: This sample develops the finality tell and packaging-as-obstacle patterns that samples/munger-dumb-competition.md later formalizes as compression-distortion and resonance depth.

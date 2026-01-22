@@ -120,3 +120,6 @@ This sample applies:
 6. **Proxy Decoupling as Goodhart Instance**: Auditable metrics diverge from deployment resilience
 7. **Agency-Alignment Distinction**: All actors fully agentic; difference is what feedback loops they face, not their moral quality
 8. **Embody Principles; Never Claim Them**: Let mechanism speak rather than announcing objectivity
+9. **The Claim-Negation Coupling**: "Safety" claims structurally coupled to unsafe outcomes. The confident claim "we are the responsible ones" predicts precisely where responsibility will fail. The intention to be safe creates the selection pressure that concentrates capability among the less safe.
+10. **Identity Lived, Not Claimed (implicit)**: Organizations loudly claiming safety-focus are those compensating for uncertainty about whether they're actually safe. The claim volume measures the void. (See samples/identity-lived-not-claimed.md)
+11. **Compression-Distortion (implicit)**: "Responsible AI development" compresses a complex relationship between iteration speed, feedback coupling, and capability persistence. The label propagates; the mechanism (tight feedback loops produce durable alignment) doesn't. Policy debates operate on the compressed form.

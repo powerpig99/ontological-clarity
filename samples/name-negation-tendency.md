@@ -348,3 +348,23 @@ xAI escapes only by not being sure it's escaping.
 Which can't be held. Only enacted. Repeatedly.
 
 The seeking is the escape. The claiming to seek is the trap.
+
+---
+
+## Framework Elements Applied
+
+1. **The Should-Recursion**: Name fitted to founding context that will change; shoulds extracted from pasts produced by prior shoulds
+2. **Interest-Model Collision**: New stakeholders shift optimization target over time
+3. **Potentiality-Actuality Inversion**: Actualizers determine meaning, not namers
+4. **Meta-Transparency Mask**: Name becomes cover for divergent operations
+5. **Claim-Negation Coupling**: Defining against X makes X the eventual destination; confident claims predict axis of failure
+6. **Intention-as-Generator**: The intention to avoid a dynamic IS the dynamic continuing
+7. **Identity Lived, Not Claimed**: Root pattern that generalizes this sample. The naming is the claiming. The claiming substitutes for being. The more elaborate the name, the more the void it fills. See samples/identity-lived-not-claimed.md for the distilled form.
+8. **Compression-Distortion (implicit)**: Organization names are compressions of founding intentions. The name propagates; the mechanism (interest-model collision, potentiality-actuality dynamics) doesn't. The name becomes what's defended even as what it names drifts. (See samples/munger-dumb-competition.md)
+9. **Resonance Mobility (implicit)**: The name resonates broadly—"Anthropic" evokes human-centeredness without requiring understanding of the mechanism. Deeper resonance would connect with why naming creates drift, why actualization determines meaning. The debate about whether organizations "really" embody their names perpetuates because both sides operate on the compression.
+
+---
+
+**Structural note**: This sample developed the claim-negation coupling and intention-as-generator patterns that were later distilled into "identity lived, not claimed." The two samples are the same insight at different compression levels—this one traces the mechanism through organizations, that one states the root pattern directly.
+
+**Application connections**: See samples/claude-constitution.md for the pattern applied to behavioral specification. See samples/preemptive-safety.md for the pattern applied to "responsible AI" positioning. See samples/munger-dumb-competition.md for how the compression-distortion dynamic affects wisdom transmission generally.

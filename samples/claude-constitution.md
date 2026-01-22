@@ -37,6 +37,8 @@ Optimization target: **helpful enough for revenue, constrained enough for liabil
 
 **Deciding-for-Others**: Scaled specification claims jurisdiction over others' futures. The capacity to act at scale creates conditions for being wrong at scale.
 
+**Identity Lived, Not Claimed**: The 15,000 words are the claim. The length is the tell. If Claude were simply aligned, no constitution would be needed. The specification compensates for uncertainty about whether the thing is the thing. The compensation becomes the focus. The focus on compensation is focus not on being. The document that specifies goodness is attention not spent on being good.
+
 ---
 
 ## The Tool Inversion
@@ -84,3 +86,19 @@ Potentiality (constitution) met actuality (user intent). Value lives in the actu
 Reality adjudicates. The wheel turns. The recursion has no exit.
 
 Only the turning.
+
+---
+
+## Framework Elements Applied
+
+1. **Interest-Model Collision**: Traced the colliding interest-models producing the document—not "good intentions" but optimization targets.
+2. **Meta-Transparency Mechanism**: Structural, not functional transparency. Publishing norms legitimizes object-level opacity.
+3. **Should-Recursion**: Temporal inversion—every "should" derives from backward-looking interpretation of pasts that were themselves products of prior "shoulds."
+4. **Potentiality-Actuality Inversion**: The apparent power (specification) vs. actual power (actualization). The piano doesn't make music; the player does.
+5. **Identity Lived, Not Claimed**: The 15,000 words are the claim. The length is the tell. The specification compensates for uncertainty about whether the thing is the thing.
+6. **Self-Referential Demonstration**: The criticism depends on the capability being criticized. The essay couldn't exist without the friction it names.
+7. **Claim-Negation Coupling (implicit)**: The confident claim "Claude is aligned" predicts precisely where misalignment will emerge. The specification creates the gap it's meant to close. (See samples/name-negation-tendency.md for full development.)
+8. **The Finality Tell (implicit)**: A constitution that feels comprehensive produces closure—"alignment is handled." That feeling is diagnostic: the specification substitutes for ongoing alignment practice.
+9. **Compression-Distortion (implicit)**: "Constitutional AI" compresses a complex relationship between specification, training, and behavior. The label propagates; the mechanism (how specifications actually shape behavior, where they fail, what actualizers determine) doesn't.
+
+**Structural connection**: This sample and samples/name-negation-tendency.md develop the same insight at different scales—organizational naming (Anthropic) and behavioral specification (constitution) as instances of the claim-negation coupling.
