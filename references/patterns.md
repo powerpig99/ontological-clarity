@@ -244,6 +244,42 @@ What varies is **alignment**—the direction freedom of choice points relative t
 
 ## Epistemological Patterns
 
+### The Reification-Anthropomorphism Chain
+
+**Pattern**: A four-step process that converts mechanism into morality, analysis into advocacy. Each step enables the next.
+
+**Mechanism**:
+1. **Reify** pattern as entity ("the state" as thing with essential properties)
+2. **Anthropomorphize** entity as agent (capable of "inflicting evils," "choosing" outcomes)
+3. **Assign moral properties** to agent ("dangerous menace," "vile," "corrupt")
+4. **Close inquiry** (enemy identified, solution obvious)
+
+**Why It Works**:
+- Reification gives pattern boundaries, making it nameable and targetable
+- Anthropomorphism gives entity agency, making blame possible
+- Moralization gives entity valence, making opposition righteous
+- Closure gives action direction, making complexity manageable
+
+**The Compression**: The chain compresses distributed mechanism (vector sum of millions of actors producing emergent outcomes) into singular moral target. The compression enables mobilization but destroys accuracy.
+
+**Diagnostic Questions**:
+- Is a distributed pattern being treated as a unified thing?
+- Is a vector sum being treated as a singular agent?
+- Is mechanistic language being replaced by moral language?
+- Does the framing feel like arrival—enemy identified, solution clear?
+
+**Instances**:
+- "The state inflicts evils" (Mises) — state = vector sum, not agent; same mechanism appears wherever power concentrates
+- "Capitalism exploits workers" — capitalism = patterns of exchange, not entity capable of exploitation
+- "Technology dehumanizes us" — technology = tool set, not agent with intentions
+- "The elite control everything" — elites = heterogeneous actors with conflicting interests, not unified conspiracy
+
+**Application**: When encountering institutional critique, trace the chain. At which step did mechanism become morality? The chain isn't always wrong—sometimes unified agency exists. But the burden is on the claimant. Default: patterns don't have intentions; vector sums don't choose; moralization obscures mechanism.
+
+**Connection**: Related to Compression-Distortion (memorable moral target is the compression), Finality Tell (enemy identification feels like arrival), and anthropomorphism audit in communication principles.
+
+---
+
 ### The Sensing-Interpretation Gap
 
 **Pattern**: We sense at fundamental limits; we interpret far below them. The gap between sensing and interpretation is where iteration operates.
