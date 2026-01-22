@@ -45,6 +45,7 @@ Start with `SKILL.md` for the core framework and analytical method. The key move
 - Trace interest-models, not intentions (strip "genuine/dishonest")
 - Distinguish potentiality from actuality (who specifies vs. who actualizes)
 - Identity is lived, not claimed (the more the claim, the less the being)
+- Check for the finality tell (arrival feeling = layer added, not removed)
 
 See `references/` for deeper foundations. See `samples/` for worked applications.
 
@@ -77,7 +78,8 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── iteration-threshold.md         # Iteration dynamics and resolution artifacts
     ├── claude-constitution.md         # Institutional analysis patterns
     ├── name-negation-tendency.md      # Claim-negation coupling
-    └── identity-lived-not-claimed.md  # The root pattern
+    ├── identity-lived-not-claimed.md  # The root pattern
+    └── naval-separation.md            # Finality tell pattern
 ```
 
 ## Epistemological Stance
