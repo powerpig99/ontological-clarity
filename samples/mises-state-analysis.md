@@ -110,16 +110,4 @@ These are data points, not conclusions about uniqueness or solutions.
 
 Each step enables the next. The chain converts mechanism into morality, analysis into advocacy.
 
----
 
-## Application
-
-When encountering institutional critique:
-
-1. **Strip moral vocabulary** — What mechanism is being described?
-2. **Check uniqueness claim** — Does mechanism apply only here or wherever similar conditions exist?
-3. **Identify reference frame** — Compared to what alternative?
-4. **Check for reification** — Is a pattern being treated as a thing?
-5. **Check for anthropomorphism** — Is a vector sum being treated as unified agent?
-6. **Test claim-negation** — What happens when the implied solution is implemented?
-7. **Notice finality feeling** — Does this feel like arrival? What inquiry does it close?

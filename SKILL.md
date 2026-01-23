@@ -372,6 +372,7 @@ The samples below demonstrate framework application across domains. They have be
 - `samples/naval-separation.md`: Separation as disease—demonstrates medical framing strip, self-contradiction exposure (the seeing is the separation), finality tell pattern, packaging-as-obstacle in wisdom transmission (later formalized as compression-distortion), identity-lived-not-claimed applied to wisdom claims
 - `samples/munger-dumb-competition.md`: Competitive strategy advice—demonstrates compression-distortion pattern (generalizes packaging-as-obstacle), horizon-consequence tradeoff, constant-variable confusion (intelligence vs. alignment), finite/infinite game confusion, finality tell in advice that feels like arrival, resonance depth vs. breadth, resonance mobility as clarity.
 - `samples/mises-state-analysis.md`: Mises quote on states as source of evil—demonstrates Reification-Anthropomorphism Chain (new pattern), constant/variable confusion (danger as property of concentration, not uniquely states), claim-negation coupling applied to anti-statism, missing reference frame (compared to what?), compression-distortion in political philosophy, finality tell in enemy identification.
+- `samples/four-night-questions.md`: Physics foundational questions (computability, superluminal transmission, EM/gravity, timeline singularity)—demonstrates notation-invariance pattern, tension-in-motion continuum, dissolution of mal-formed questions, constitutive vs. teleological framing of physical constants.
 
 ## Usage Notes
 
