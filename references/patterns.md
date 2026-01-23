@@ -742,6 +742,56 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 
 **Connection**: Extends epistemological foundation (stepping-outside paradox, frame to reveal not change). Related to Context Alignment as Truth Condition (truth as resonance across aligned contexts). The goal isn't escaping resonance but navigating it with less friction.
 
+---
+
+### The Tension-in-Motion Continuum
+
+**Pattern**: Apparent categorical differences between phenomena are often the same underlying structure at different *stability parameters*—different points on a continuum of how long the distinction-relation dance sustains before collapsing.
+
+**Mechanism**:
+1. All dynamic phenomena involve tension between distinction (separation) and relation (interaction)
+2. This tension manifests as oscillation, orbit, or pattern
+3. Patterns differ in sustainability—how many cycles before decay
+4. What appears as categorical difference (gravity vs. electromagnetism, stable vs. unstable) is parameter difference along this continuum
+
+**The Gravity/EM Instance**:
+- Gravity: massive bodies in tension, dance decays toward merger or escape
+- Electromagnetism: massless waves in tension, self-sustaining oscillation
+- Same structure; different stability parameters
+- Mass vs. massless is parameter setting, not categorical boundary
+
+**Application**: When two phenomena resist unification despite apparent similarity, check whether they're the same structure at different stability parameters. The "difference" may be sustainability of pattern, not kind of pattern.
+
+**Connection**: Related to Notation-Invariance Pattern (same structure, different parsing), Constant vs. Variable confusion (treating parameter differences as kind differences).
+
+---
+
+### The Notation-Invariance Pattern (Base-Independence)
+
+**Pattern**: What appear as categorically different phenomena may be the same structure parsed at different "notational bases"—like binary and decimal representing identical arithmetic.
+
+**Mechanism**:
+1. Underlying operation is identical
+2. Observer's parsing apparatus presents it differently
+3. Training in one notation makes others appear foreign
+4. Isomorphism hidden by notational surface
+5. "Willingness to accept" the connection is apparatus flexibility, not psychological resistance
+
+**The Binary/Decimal Instance**:
+- Binary and decimal aren't different mathematics
+- Same operations, different representation
+- Someone trained only in decimal sees binary as foreign
+- No third notation "unifies" them—recognition that they were always the same arithmetic does
+
+**Application**: When unification efforts stall, ask: Are we trying to connect what was never separate? Is this a notation problem masquerading as a connection problem? Would unification look like finding a formula that combines both, or recognizing the base-independence of the underlying operation?
+
+**Diagnostic Questions**:
+- What parsing apparatus produces these as apparently separate?
+- What would it mean to "shift bases" here?
+- Is the resistance to unification in the phenomena or in the observer's notation?
+
+**Connection**: Related to Tension-in-Motion Continuum (same structure, different parameters), Reference Frame Discipline (making frame explicit), Projection and Distortion (notation as projection).
+
 ## Application Template
 
 1. **Identify moral framing** obscuring the topic
@@ -771,3 +821,5 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 25. **Trace compression-distortion**: What mechanism was compressed into this memorable form? What variables collapsed? What conditions discarded?
 26. **Assess resonance mobility**: Does this enable or foreclose the ability to shift across frames? Is clarity being treated as fixed view or as mobility?
 27. **Check reification-anthropomorphism chain**: Is a distributed pattern being treated as unified entity? Is a vector sum being treated as singular agent? Has mechanism become morality?
+28. **Check for notation-invariance**: Are these "different things" the same structure at different parsing bases? Would unification look like finding a third notation, or recognizing they were never separate?
+29. **Check stability-parameter confusion**: Is this apparent categorical difference actually a continuum of pattern-sustainability? Is "kind difference" actually "how long the dance sustains"?

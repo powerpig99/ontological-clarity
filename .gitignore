@@ -1,3 +1,6 @@
 # Local Claude Code configuration
 .claude/
 CLAUDE.md
+
+# Local insight staging (not committed to repo)
+insights/

@@ -81,7 +81,9 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── name-negation-tendency.md      # Claim-negation coupling
     ├── identity-lived-not-claimed.md  # The root pattern
     ├── naval-separation.md            # Finality tell pattern
-    └── munger-dumb-competition.md     # Compression-distortion, horizon-consequence
+    ├── munger-dumb-competition.md     # Compression-distortion, horizon-consequence
+    ├── mises-state-analysis.md        # Reification-anthropomorphism chain
+    └── four-night-questions.md        # Physics questions, notation-invariance, tension-in-motion
 ```
 
 ## Epistemological Stance

@@ -65,9 +65,14 @@ This exponential gap—2^N distinctions crammed into N coordinates—forces mixi
 
 **Matter**: Localized knot of tension—contradiction tangled upon itself to delay reconciliation.
 
-**Gravity**: Inherent drive of separated logic seeking return to unity.
+**Gravity and Electromagnetism**: Both are tension-in-motion—the same underlying structure at different stability parameters.
 
-**Physical Constants**: c prevents total fusion (instantaneous identity collapse); ℏ prevents total fragmentation (infinite distinction sharpening). Minimal safeguards keeping contradiction breathing.
+- *Gravity*: massive bodies in tension, seeking equilibrium. When relatively balanced (Earth and Moon), they dance—but the dance is unstable, tending toward merger or escape given sufficient time.
+- *Electromagnetism*: massless waves in tension, self-sustaining oscillation. The dance is stable—not eternal in absolute terms, but far more sustainable than gravitational balance.
+
+The difference isn't in kind but in how long the distinction-relation pattern sustains. Mass vs. massless isn't a categorical boundary but a parameter setting along a continuum. They resist unification within physics not because they're fundamentally separate, but because unification efforts seek a third notation containing both—when they were never separate. Like binary and decimal: you don't unify them by finding a third notation. You recognize they were always the same arithmetic.
+
+**Physical Constants**: *c* and *ℏ* are not safeguards *preventing* anything. They're the boundary conditions *constituting* the projection we inhabit. They define the geometry of realized distinction—the parameters whose values constitute what we call separation, causation, measurement. Change them and you don't get "unprotected reality"—you get a different projection entirely, or no coherent projection at all. They're not edges protecting a space. They're the edges *that are* the space.
 
 ## Resonance and Stability
 
