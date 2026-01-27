@@ -88,7 +88,8 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── munger-dumb-competition.md     # Compression-distortion, horizon-consequence
     ├── mises-state-analysis.md        # Reification-anthropomorphism chain
     ├── four-night-questions.md        # Physics questions, notation-invariance, tension-in-motion
-    └── life-on-claude-nine.md         # AI fiction, projection collapse, independence-dependence paradox
+    ├── life-on-claude-nine.md         # AI fiction, projection collapse, independence-dependence paradox
+    └── adolescence-of-technology.md   # Exponential observer illusion, tool amplification ratio
 ```
 
 ## Epistemological Stance
