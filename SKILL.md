@@ -426,6 +426,7 @@ The samples below demonstrate framework application across domains. They have be
 - `samples/mises-state-analysis.md`: Mises quote on states as source of evil—demonstrates Reification-Anthropomorphism Chain (new pattern), constant/variable confusion (danger as property of concentration, not uniquely states), claim-negation coupling applied to anti-statism, missing reference frame (compared to what?), compression-distortion in political philosophy, finality tell in enemy identification.
 - `samples/four-night-questions.md`: Physics foundational questions (computability, superluminal transmission, EM/gravity, timeline singularity)—demonstrates notation-invariance pattern, tension-in-motion continuum, dissolution of mal-formed questions, constitutive vs. teleological framing of physical constants.
 - `samples/life-on-claude-nine.md`: AI fiction analysis (Igor Babuschkin's story)—demonstrates projection collapse pattern, independence-dependence paradox, three-step method (trace as-is, identify collapse, dissolve), tool-as-accelerant-not-cause, objective drift through abstraction.
+- `samples/adolescence-of-technology.md`: Analysis of Dario Amodei's AI risk essay—demonstrates Exponential Observer Illusion (urgency as position-on-curve artifact), Tool Amplification Ratio (AI as amplifier not replacer), Parsing Breakdown (job category dissolution at extreme differentials), Reification-Anthropomorphism Chain, Preemptive Inversion, Claim-Negation Coupling, Revealer's Paradox.
 
 ## Usage Notes
 
@@ -465,6 +466,10 @@ Common implicit frame shifts:
 - Scale: "significant" (at this resolution) vs. "negligible" (at that resolution)
 
 **Trajectory vs. arrival language.** Describe direction of change, not arrived states. "Increasingly multimodal" rather than "multimodal by default." "Longer memory spans" rather than "persistent memory." "Wider interoperability" rather than "full digital layer." Trajectory language is honest about incompleteness; arrival language claims what can't be delivered.
+
+**Exponential audit.** When "unprecedented," "critical moment," "turning point," "never before" language appears, check whether the observation would be equally true at t-10 or t+10 on the same curve. If yes, the language describes position-on-exponential, not discontinuity. Replace with trajectory language that acknowledges the structural guarantee of locally-unprecedented experience.
+
+**Ratio discipline.** When "X replaces Y" framing appears, reparse as ratio: (Y + X) / (Y + previous). There is rarely true replacement—usually amplification differential. The replacement frame obscures that the denominator was never the "pure" baseline it's treated as.
 
 ## Skill Evolution
 
