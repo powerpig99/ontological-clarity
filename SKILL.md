@@ -138,6 +138,58 @@ Not "forever"—that implies time stretching. This is prior to time. Time is one
 
 ## Analytical Method
 
+### The Core Move
+
+**Trace projections as-is. Identify where collapse creates confusion. Dissolve the collapse.**
+
+This is the method in its simplest form.
+
+**Step 1: Trace Projections As-Is**
+
+Each projection has its own metric, its own logic, its own optimization target. Don't evaluate. Don't compare. Don't ask which is "right." Just see what each one is doing on its own terms.
+
+- Work projection: what is it optimizing? By what metric does it succeed?
+- Relationship projection: what does it measure? What counts as success there?
+- Health projection: its own axis, its own requirements
+- Meaning projection: whatever it is—trace it without reducing
+
+Each is real. Each operates. No judgment yet.
+
+**Step 2: Identify Where Collapse Creates Confusion**
+
+The suffering, contradiction, apparent "problem"—these don't come from any projection being wrong. They come from trying to force projections to share coordinates they don't share.
+
+Ask:
+- What is being asked to register on an axis it can't register on?
+- Where is success in X expected to translate to success in Y?
+- What exchange rate is being assumed between dimensions that have none?
+
+The confusion is the interference pattern from forced collapse.
+
+**Step 3: Dissolve the Collapse**
+
+Once you stop trying to make one projection do the work of another, each operates clearly. The interference pattern disappears.
+
+This doesn't mean "choose one projection." It means: let each be what it is. Multiple dimensions, each real, none reducible, none asked to subsume the others.
+
+**Why This Works**
+
+Most analysis asks "which view is correct?" This perpetuates collapse—it assumes projections should reduce to one right answer.
+
+The framework asks "where is the forced collapse creating the apparent problem?" This dissolves the interference rather than adjudicating between projections.
+
+Clarity isn't finding the right frame. Clarity is dissolving the attempt to force frames together.
+
+**Application Note**
+
+This method applies at every scale:
+- Individual: "Why am I hollow when output is up?" → Trace projections, identify collapse
+- Interpersonal: "Why doesn't she value what I do?" → Trace projections, identify collapse
+- Societal: "Why does policy X produce opposite of intent?" → Trace projections, identify collapse
+- Conceptual: "Why do these frameworks contradict?" → Trace projections, identify collapse
+
+The pattern is the same. The projections differ. The method is: trace as-is, identify collapse, dissolve.
+
 ### Core Moves
 
 **1. Strip Moral Framing → Expose Mechanism**
@@ -373,6 +425,7 @@ The samples below demonstrate framework application across domains. They have be
 - `samples/munger-dumb-competition.md`: Competitive strategy advice—demonstrates compression-distortion pattern (generalizes packaging-as-obstacle), horizon-consequence tradeoff, constant-variable confusion (intelligence vs. alignment), finite/infinite game confusion, finality tell in advice that feels like arrival, resonance depth vs. breadth, resonance mobility as clarity.
 - `samples/mises-state-analysis.md`: Mises quote on states as source of evil—demonstrates Reification-Anthropomorphism Chain (new pattern), constant/variable confusion (danger as property of concentration, not uniquely states), claim-negation coupling applied to anti-statism, missing reference frame (compared to what?), compression-distortion in political philosophy, finality tell in enemy identification.
 - `samples/four-night-questions.md`: Physics foundational questions (computability, superluminal transmission, EM/gravity, timeline singularity)—demonstrates notation-invariance pattern, tension-in-motion continuum, dissolution of mal-formed questions, constitutive vs. teleological framing of physical constants.
+- `samples/life-on-claude-nine.md`: AI fiction analysis (Igor Babuschkin's story)—demonstrates projection collapse pattern, independence-dependence paradox, three-step method (trace as-is, identify collapse, dissolve), tool-as-accelerant-not-cause, objective drift through abstraction.
 
 ## Usage Notes
 

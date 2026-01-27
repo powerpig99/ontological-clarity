@@ -792,6 +792,81 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 
 **Connection**: Related to Tension-in-Motion Continuum (same structure, different parameters), Reference Frame Discipline (making frame explicit), Projection and Distortion (notation as projection).
 
+## Projection Dynamics Patterns
+
+### The Independence-Dependence Paradox
+
+**Pattern**: To optimize freely in one dimension, you must decouple from other dimensions. That same decoupling means those dimensions don't owe you anything. You cannot achieve independence *from* X and demand dependence *of* X on your success.
+
+**Mechanism**:
+1. Agent identifies a dimension where they can compound independently (no coordination overhead, no external constraints)
+2. Independence requires decoupling from other dimensions (relationship, health, meaning, validation)
+3. Success accumulates in the independent dimension
+4. Agent wants success to propagate to decoupled dimensions—wants validation, recognition, meaning to flow from achievement
+5. Relativity forbids this: orthogonal dimensions have no exchange rate
+6. The isolation that enables acceleration is the same isolation that prevents validation
+
+**The Trap Structure**:
+- **Independence in creation**: I can build without waiting for others, iterate without coordination, optimize without constraint
+- **Dependence in validation**: Others should recognize my success, organize around it, grant meaning to it
+- **The impossibility**: You can't have both. Decoupling is symmetric.
+
+**Diagnostic Questions**:
+- What did I decouple from to achieve this independence?
+- Am I now asking those decoupled dimensions to validate what I'm doing?
+- Am I expecting exchange rates between dimensions that don't share coordinates?
+
+**Instances**:
+- Workaholic who wonders why family doesn't appreciate their sacrifice
+- Founder who optimized company growth and lost all relationships
+- Artist who isolated to create and resents lack of recognition
+- Any "I gave up everything for X, why doesn't X give back?" pattern
+
+**Connection**: Related to Projection Collapse (attempting to make one dimension do work of all dimensions), Relativity of Projections (each dimension has its own metric), Tools-as-Amplifiers (tool accelerates the dynamic but doesn't cause it).
+
+**Application**: When someone is suffering despite "success," check: Did they achieve success by decoupling from something? Are they now demanding that the decoupled dimension validate the success? The suffering isn't from the success or from the dimension—it's from the impossible demand.
+
+---
+
+### Projection Collapse
+
+**Pattern**: Attempting to force orthogonal dimensions into a single frame. The confusion, suffering, and apparent "problems" arise not from any projection being wrong, but from trying to make projections share coordinates they don't share.
+
+**Mechanism**:
+1. Multiple projections exist, each with its own metric (work, relationship, health, meaning, etc.)
+2. Each operates by its own logic, optimizes its own target
+3. Agent attempts to collapse: make one projection do the work of all others
+4. Orthogonal dimensions don't collapse—no component of one exists in the other
+5. Interference pattern emerges: hollowness, confusion, contradiction
+6. Agent interprets interference as "problem" in one of the projections, rather than as artifact of forced collapse
+
+**The Method for Clarity**:
+
+**Step 1**: Trace projections as-is, without judgment. Each projection has its own metric, its own logic. Don't evaluate which is "right." Just see what each is doing on its own terms.
+
+**Step 2**: Identify where confusion arises from attempted collapse. The suffering, contradiction, apparent "problem"—these come from trying to force projections to share coordinates. Ask: What is being asked to register on an axis it can't register on?
+
+**Step 3**: Dissolve the collapse. Once you stop asking one projection to do the work of another, each operates clearly. The interference pattern disappears. What remains: multiple dimensions, each real, none reducible.
+
+**Diagnostic Questions**:
+- What dimensions am I treating as if they should reduce to one?
+- Where am I asking success in X to translate to success in Y?
+- What would it look like to let each dimension be what it is?
+
+**Instances**:
+- "Why am I hollow when my career is succeeding?" → Asking work to register on meaning axis
+- "Why doesn't my family appreciate my sacrifice?" → Asking achievement to produce relationship
+- "AI is taking over" → Collapsing "human stopped steering" into "tool seized control"
+- Any "I have X, why don't I have Y?" where X and Y are orthogonal
+
+**Key Insight**: The clarity doesn't come from finding the "right" projection. It comes from dissolving the forced collapse. Not "which view is correct" but "where is the attempted collapse creating the apparent problem."
+
+**Connection**: Related to Independence-Dependence Paradox (specific form of collapse), Relativity of Projections (why collapse fails), Reference Frame Discipline (making frames explicit prevents collapse).
+
+**Self-Application**: This pattern is itself a projection. Holding it as "the answer" would be another collapse. The value is in the method—trace as-is, identify collapse, dissolve—not in the formulation.
+
+---
+
 ## Application Template
 
 1. **Identify moral framing** obscuring the topic
@@ -823,3 +898,7 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 27. **Check reification-anthropomorphism chain**: Is a distributed pattern being treated as unified entity? Is a vector sum being treated as singular agent? Has mechanism become morality?
 28. **Check for notation-invariance**: Are these "different things" the same structure at different parsing bases? Would unification look like finding a third notation, or recognizing they were never separate?
 29. **Check stability-parameter confusion**: Is this apparent categorical difference actually a continuum of pattern-sustainability? Is "kind difference" actually "how long the dance sustains"?
+30. **Trace projections as-is**: Before evaluating, see what each projection is doing on its own terms. What is its metric? What does it optimize? No judgment yet.
+31. **Identify projection collapse**: Where is confusion arising from forcing projections to share coordinates? What is being asked to register on an axis it can't register on?
+32. **Check independence-dependence paradox**: Did success require decoupling from something? Is validation now being demanded from what was decoupled? Decoupling is symmetric—independence from X means X owes nothing.
+33. **Dissolve rather than adjudicate**: Don't ask "which projection is right." Ask "where is the forced collapse creating the apparent problem." Clarity is dissolving the collapse, not choosing a winner.
