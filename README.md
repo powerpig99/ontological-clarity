@@ -35,7 +35,11 @@ The framework traces everything to a single irreducible structure: the primal Co
 
 ### As a Thinking Tool
 
-Start with `SKILL.md` for the core framework and analytical method. The key moves:
+Start with `SKILL.md` for the core framework and analytical method.
+
+**The Core Move:** Trace projections as-is. Identify where collapse creates confusion. Dissolve the collapse. This three-step method applies at every scale.
+
+The key moves:
 
 - Strip moral framing → expose mechanism
 - Trace the arithmetic (who pays, who receives, what shifts)
@@ -83,7 +87,8 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── naval-separation.md            # Finality tell pattern
     ├── munger-dumb-competition.md     # Compression-distortion, horizon-consequence
     ├── mises-state-analysis.md        # Reification-anthropomorphism chain
-    └── four-night-questions.md        # Physics questions, notation-invariance, tension-in-motion
+    ├── four-night-questions.md        # Physics questions, notation-invariance, tension-in-motion
+    └── life-on-claude-nine.md         # AI fiction, projection collapse, independence-dependence paradox
 ```
 
 ## Epistemological Stance
