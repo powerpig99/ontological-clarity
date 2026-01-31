@@ -52,6 +52,7 @@ The key moves:
 - Check for the finality tell (arrival feeling = layer added, not removed)
 - Check if boundaries are ontological or definitional (draw differently, problem may dissolve)
 - Watch for compression-distortion (memorable form IS the distortion)
+- Check categorical perception limits (can the system perceive what it claims to optimize for?)
 
 See `references/` for deeper foundations. See `samples/` for worked applications.
 
@@ -89,7 +90,8 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── mises-state-analysis.md        # Reification-anthropomorphism chain
     ├── four-night-questions.md        # Physics questions, notation-invariance, tension-in-motion
     ├── life-on-claude-nine.md         # AI fiction, projection collapse, independence-dependence paradox
-    └── adolescence-of-technology.md   # Exponential observer illusion, tool amplification ratio
+    ├── adolescence-of-technology.md   # Exponential observer illusion, tool amplification ratio
+    └── platform-truth-arbitration.md  # Categorical perception limit, platform moderation
 ```
 
 ## Epistemological Stance
