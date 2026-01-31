@@ -942,6 +942,53 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 
 ---
 
+### Categorical Perception Limit
+
+**Pattern**: Systems can only optimize for what they can perceive. When a system claims to optimize for X but X is categorically imperceptible to the system's sensing mechanism, the claim cannot be fulfilled regardless of resources or intentions. The gap between claim and operation is structural, not contingent.
+
+**Mechanism**:
+1. System S has sensing apparatus that perceives feature-set F
+2. System claims to optimize for target T
+3. T is not in F—not because sensing is weak, but because T is categorically outside what any enhancement of S's sensing could reach
+4. System actually optimizes for proxy P (which is in F) while claiming T
+5. Gap between claim and operation is permanent, not fixable by better engineering
+
+**The Categorical vs. Contingent Distinction**:
+- **Contingent limit**: System can't perceive X *yet*—better sensors, more data, improved algorithms could close the gap
+- **Categorical limit**: X is not the kind of thing this class of systems can perceive—the gap is structural
+
+**Key Instance: Platforms and Truth**:
+- Platforms perceive: patterns in content, behavior, engagement, network structure (representations)
+- Truth is: correspondence relation between representations and what they represent
+- Platforms access only one side of the correspondence—the representation
+- The other side (external reality) is categorically outside platform perception
+- Therefore: "truth platform" is not an achievable goal but a category error
+
+**Why This Differs from Sensing-Interpretation Gap**:
+- Sensing-Interpretation distinguishes fundamental limits from movable ones within a system's potential
+- Categorical Perception Limit identifies when an entire *class* of targets is outside a *class* of systems
+- Not "this system can't sense X yet" but "no system of this type can ever sense X"
+
+**Diagnostic Questions**:
+- What can this system actually perceive?
+- Is the claimed optimization target in the perceivable set?
+- If not, is this a contingent gap (fixable) or categorical gap (structural)?
+- What proxy is the system actually optimizing while claiming the imperceptible target?
+
+**Instances**:
+- Platforms claiming truth-optimization (perceive representations, not correspondence)
+- Algorithms claiming fairness (perceive outcomes, not justice)
+- Metrics claiming to measure quality (perceive proxies, not the thing proxied)
+- Any system claiming to optimize for values while perceiving only behaviors
+
+**The Claim Function**: When systems claim to optimize for categorically imperceptible targets, the claim itself serves different functions: differentiation, legitimation, user acquisition. The claim substitutes for the operation. This connects to Claim-Negation Coupling: the claim exists because the operation doesn't deliver it.
+
+**Connection**: Related to Claim-Negation Coupling (why claims for imperceptible targets exist), Sensing-Interpretation Gap (distinguishing limit types), Reification-Anthropomorphism Chain (treating systems as if they could perceive what they can't).
+
+**Application**: When analyzing any system's stated mission, first ask: Can this system perceive what it claims to optimize for? If no, the mission statement and the optimization target are different objects entirely. The gap is not fixable by resources or intentions—it's categorical.
+
+---
+
 ## Application Template
 
 1. **Identify moral framing** obscuring the topic
@@ -980,3 +1027,4 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 34. **Check exponential observer illusion**: Is "unprecedented" describing the phenomenon or position on an exponential? Would observer at t-10 have said the same? Is urgency evidence of discontinuity or evidence of being on the curve?
 35. **Check tool amplification ratio**: Is "replacement" framing masking amplification? What's the actual numerator and denominator? Was there ever a "human alone" baseline?
 36. **Check parsing breakdown**: Is disruption happening to the phenomenon or to the category used to parse it? Does intervention preserve old parsing or enable coherent new parsing?
+37. **Check categorical perception limit**: Can this system perceive what it claims to optimize for? Is the gap contingent (fixable with better sensing) or categorical (target outside what this class of systems can ever perceive)?
