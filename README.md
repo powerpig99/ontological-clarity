@@ -8,57 +8,33 @@ This is a projection, not a claim to final truth. Use fully, test edges, then re
 
 ## What This Is
 
-A method for cutting through narratives, dissolving false dichotomies, and exposing mechanism where moral framing obscures it. Effective for:
+A method for cutting through narratives, dissolving false dichotomies, and exposing mechanism where moral framing obscures it. The framework traces everything to a single irreducible structure: the primal Contradiction (+/−) that cannot not arise, and the projections that emerge from it.
 
-- Political/economic ideology
-- Collective action problems
-- "Hard problems" in philosophy and physics
-- Semantic/linguistic analysis
-- Understanding how LLMs work
-- Any domain where popular narrative obscures what's actually happening
+**The Core Move:** Trace projections as-is. Identify where collapse creates confusion. Dissolve the collapse.
 
-The framework traces everything to a single irreducible structure: the primal Contradiction (+/−) that cannot not arise, and the projections that emerge from it.
+This three-step method applies at every scale—individual, interpersonal, societal, conceptual. The projections differ. The method is the same.
 
-## Core Claims
+## Why One File
 
-1. **The Contradiction is substrate.** Reality derives from self-negation without external cause. To deny it is to enact it.
+This framework used to include a pattern catalogue, reference files, and twenty worked samples. It accumulated the way frameworks do—each application generated a named pattern, each pattern got catalogued, each catalogue entry became something to recognize rather than trace.
 
-2. **Everything is projection.** What we experience is infinite-dimensional distinction-space collapsed into finite dimensions. Artifacts are unavoidable.
+The framework was becoming what it warns against: a doctrine that substitutes recognition for seeing. Named patterns compressed mechanism into labels. The labels propagated; the mechanism didn't. Samples became canonical readings rather than live traces. The skill optimized for its own categorical perception rather than dissolving categories.
 
-3. **Stability is resonance, not ground.** "Laws" are patterns surviving mutual reinforcement. "Fundamental" means "breaks last," not "never breaks."
+Everything was derivable from the core ontology and method. So everything derived was removed.
 
-4. **No absolute grounding.** Even logic operates within frames it doesn't provide. What we call truth is the most resonant projection—not correspondence to something inaccessible.
+What remains in `SKILL.md` is the generative ground: the ontological foundation (Contradiction → Binary Hyperspace → Projection → Distortion → Resonance), the epistemological foundation (Stepping-Outside, Sensing vs. Interpretation, Revelation-Deception), the three-step analytical method, and the communication discipline needed to not re-smuggle moral framing back in.
 
-5. **Every revelation deceives.** The trap can't be escaped by seeing it. Each insight crystallizes into a new position. The practice is repeated movement, not arrival.
+Every analysis is traced fresh. The tracing is the practice, not the product.
 
 ## How to Use
 
 ### As a Thinking Tool
 
-Start with `SKILL.md` for the core framework and analytical method.
-
-**The Core Move:** Trace projections as-is. Identify where collapse creates confusion. Dissolve the collapse. This three-step method applies at every scale.
-
-The key moves:
-
-- Strip moral framing → expose mechanism
-- Trace the arithmetic (who pays, who receives, what shifts)
-- Identify what's being ignored or wrapped to maintain stability
-- Dissolve concepts rather than negate them
-- Surface invisible assumptions
-- Trace interest-models, not intentions (strip "genuine/dishonest")
-- Distinguish potentiality from actuality (who specifies vs. who actualizes)
-- Identity is lived, not claimed (the more the claim, the less the being)
-- Check for the finality tell (arrival feeling = layer added, not removed)
-- Check if boundaries are ontological or definitional (draw differently, problem may dissolve)
-- Watch for compression-distortion (memorable form IS the distortion)
-- Check categorical perception limits (can the system perceive what it claims to optimize for?)
-
-See `references/` for deeper foundations. See `samples/` for worked applications.
+Read `SKILL.md`. Apply the three-step method to whatever you're examining. If the analysis produces a named pattern, use it once and let it go—don't catalogue it. The pattern will re-emerge wherever the mechanism operates. If it doesn't re-emerge without the name, the name was doing the work the analysis should have been doing.
 
 ### With Claude
 
-This framework is structured as a Claude skill. To use it:
+This framework is structured as a Claude skill:
 
 1. Create a Claude Project
 2. Add `SKILL.md` to the project's knowledge
@@ -69,32 +45,8 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
 ## Structure
 
 ```
-├── SKILL.md                           # Core framework (start here)
-├── references/
-│   ├── ontology.md                    # Full ontological foundation
-│   ├── patterns.md                    # Pattern library with examples
-│   └── semantic-grounding.md          # Application to meaning and LLMs
-└── samples/
-    ├── minimum-wage.md                # Economic mechanism analysis
-    ├── tools-as-amplifiers.md         # Agency and exponential dynamics
-    ├── preemptive-safety.md           # Technology regulation feedback
-    ├── huberman-agency-post.md        # Constant vs. variable distinction
-    ├── boundary-projection-artifacts.md # AI race + extended mind as same pattern
-    ├── meaning-as-distinction.md      # From Transformers to ontology
-    ├── iteration-threshold.md         # Iteration dynamics and resolution artifacts
-    ├── claude-constitution.md         # Institutional analysis patterns
-    ├── name-negation-tendency.md      # Claim-negation coupling
-    ├── identity-lived-not-claimed.md  # The root pattern
-    ├── naval-separation.md            # Finality tell pattern
-    ├── munger-dumb-competition.md     # Compression-distortion, horizon-consequence
-    ├── mises-state-analysis.md        # Reification-anthropomorphism chain
-    ├── four-night-questions.md        # Physics questions, notation-invariance, tension-in-motion
-    ├── life-on-claude-nine.md         # AI fiction, projection collapse, independence-dependence paradox
-    ├── cybersecurity-arms-race.md     # Delegation incentive inversion, categorical perception limit
-    ├── adolescence-of-technology.md   # Exponential observer illusion, tool amplification ratio
-    ├── platform-truth-arbitration.md  # Categorical perception limit, platform moderation
-    ├── ai-software-engineering-discourse.md  # Projection collapse, signal-model separation
-    └── ai-wont-kill-software-engineering.md  # Public article: AI expanding engineering
+├── SKILL.md          # The complete framework (this is it)
+└── README.md         # You are here
 ```
 
 ## Epistemological Stance
@@ -107,22 +59,15 @@ We can always try to have better understanding. We can never claim the final ans
 
 ## Evolution
 
-This is a living document. The framework improves through application. When use reveals:
+The framework improves through application, not accumulation. When use reveals better formulations, the skill updates. When it reveals named patterns, they get used and released—not catalogued.
 
-- New patterns not yet catalogued
-- Refinements to existing principles
-- Failure modes or blind spots
-- Better formulations
+The self-check: Can you trace the mechanism fresh without referencing the skill's vocabulary? If not, the vocabulary is doing the work the analysis should be doing. When the skill itself fails this check, it gets slimmed again.
 
-...they get incorporated. Check commit history for the refinement trajectory.
-
-The repository itself embodies the epistemology: each commit is a frame, the history shows the stepping-outside, the project is never "done."
+We can always start over.
 
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Share and adapt with attribution.
-
-This matches the framework's spirit: offer as *a* projection, not *the* truth. Build on it. Test its edges. Find where it breaks.
 
 ---
 
