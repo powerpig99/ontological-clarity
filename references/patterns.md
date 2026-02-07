@@ -335,6 +335,8 @@ What varies is **alignment**—the direction freedom of choice points relative t
 
 **Application**: When encountering apparent epistemological barriers, check whether the limit is in sensing or interpretation. If interpretation (usually), the barrier is movable through iteration.
 
+**Applied Form (Signal-Model Separation)**: When analyzing reactions to change, separate the signal (what sensing detects—rate of change, competitive shifts, leverage loss) from the model processing it (fixed demand, linear extrapolation, static categories). The signal is usually accurate. The model is usually wrong. The response: update the model, not suppress the signal. This explains why "you're wrong to worry" fails—the sensing is right; only the interpretation needs updating. Telling someone their signal is wrong when their model is wrong alienates rather than clarifies.
+
 ### The Claim-Blindspot Unity
 
 **Pattern**: The claim to have seen a process in motion substitutes static projection for ongoing process—creating precisely the blindspot that prevents seeing.
@@ -374,6 +376,8 @@ What varies is **alignment**—the direction freedom of choice points relative t
 
 **Connection**: Related to Sensing-Interpretation Gap (the steepness is sensed correctly; the interpretation as "special moment" is added), Resolution Artifacts (categorical boundaries appearing where continuous process exceeds parsing threshold), Finality Tell (the "test" framing implies an arrival that exponentials don't offer).
 
+**Precise Sensing-Interpretation connection**: Local slope on an exponential *is* steeper than anything before from that position—sensing is accurate. The interpretation that steepness signals discontinuity or categorical novelty is where the illusion enters. Every point on an exponential is "unprecedented" by definition. The feeling of crisis is real sensing; the inference to special historical moment is interpretation error. This makes Signal-Model Separation directly applicable: the signal (change is fast) is right; the model (linear baseline → "unprecedented" = "special") is structural artifact.
+
 ---
 
 ### The Tool Amplification Ratio
@@ -399,6 +403,8 @@ What varies is **alignment**—the direction freedom of choice points relative t
 **Application**: When "replacement" or "obsolescence" framing appears, reparse as amplification ratio. Ask: what is the actual numerator and denominator? The labor is still human—what's changing is the coupling efficiency.
 
 **Connection**: Related to Constant vs. Variable Confusion (the structure is constant; the magnitude is variable), Notation-Invariance (same underlying dynamic, different parsing at different scales), Resolution Artifacts ("job" as a parsing that breaks at extreme differentials).
+
+**Demand-Side Application (Feasibility Threshold Shift)**: When tool efficiency lowers cost per unit, applications previously below the viability threshold become feasible. New demand materializes not because latent demand was "waiting" but because the capability makes the application conceivable. This is the mechanism inside Jevons Paradox stripped of the paradox: lower cost → wider feasibility → more total activity. The "paradox" only appears when micro-efficiency (less input per task) and macro-demand (more total activity) are collapsed onto one axis—a Projection Collapse.
 
 ---
 
@@ -824,6 +830,9 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 - "High agency" = compression of (alignment direction + tool leverage + iteration speed)
 - "Work smart not hard" = compression of (alignment to objective + iteration efficiency + leverage selection)
 - "Follow your passion" = compression of (alignment to intrinsic motivation + market fit + skill development trajectory)
+- "Study Jevons's Paradox" = invocation of compressed form as argument; the name carries authority that substitutes for tracing the mechanism (price elasticity across feasibility thresholds, endogenous demand creation)
+
+**Invocation-as-Argument**: A specific compression pathology where citing a named pattern replaces tracing the mechanism. The authority of the name ("there's a law about this") substitutes for the work of following the mechanism. The name propagates as argument; the mechanism it was supposed to point toward gets skipped.
 
 **The Paradox**: The more transmissible, the more distorted. The more accurate, the less transmissible. No stable point—only the tradeoff.
 
@@ -972,6 +981,7 @@ The claim is the gap. The being is the bridge. But the bridge can't be pointed a
 - "Why am I hollow when my career is succeeding?" → Asking work to register on meaning axis
 - "Why doesn't my family appreciate my sacrifice?" → Asking achievement to produce relationship
 - "AI is taking over" → Collapsing "human stopped steering" into "tool seized control"
+- "Is AI good or bad for engineers?" → Micro-efficiency, macro-demand, individual experience, and historical trajectory are four projections forced into binary evaluation; the "debate" is the interference pattern
 - Any "I have X, why don't I have Y?" where X and Y are orthogonal
 
 **Key Insight**: The clarity doesn't come from finding the "right" projection. It comes from dissolving the forced collapse. Not "which view is correct" but "where is the attempted collapse creating the apparent problem."

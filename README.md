@@ -92,7 +92,9 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── life-on-claude-nine.md         # AI fiction, projection collapse, independence-dependence paradox
     ├── cybersecurity-arms-race.md     # Delegation incentive inversion, categorical perception limit
     ├── adolescence-of-technology.md   # Exponential observer illusion, tool amplification ratio
-    └── platform-truth-arbitration.md  # Categorical perception limit, platform moderation
+    ├── platform-truth-arbitration.md  # Categorical perception limit, platform moderation
+    ├── ai-software-engineering-discourse.md  # Projection collapse, signal-model separation
+    └── ai-wont-kill-software-engineering.md  # Public article: AI expanding engineering
 ```
 
 ## Epistemological Stance
