@@ -139,6 +139,10 @@ What's required isn't passing a test. It's updating the model that made the curr
 
 ---
 
+**Connection to ai-software-engineering-discourse.md**: That sample applies the same Exponential Observer Illusion and Tool Amplification Ratio to popular discourse rather than policy framing. The two samples together demonstrate the pattern operating at institutional level (CEO essay, policy recommendations) and popular level (engineer anxiety, public debate). The Sensing-Interpretation Gap developed there (signal-model separation) also applies here: Dario's sensing of accelerating capability is accurate; the "adolescence/test" framing is the interpretive model that adds teleology where there's only mechanism.
+
+---
+
 *The essay is more honest than most CEO communications. It traces mechanisms when they're legible. It acknowledges uncertainty. But it cannot escape the frame from which it speaks—embedded in the process it describes, parsing exponential change through linear intuition, converting the gap into narrative of crisis and triumph.*
 
 *Same distinctions. Different projection. The curve continues.*
