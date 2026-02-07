@@ -90,6 +90,7 @@ Claude will trace topics to their ontological ground, dissolve false dichotomies
     ├── mises-state-analysis.md        # Reification-anthropomorphism chain
     ├── four-night-questions.md        # Physics questions, notation-invariance, tension-in-motion
     ├── life-on-claude-nine.md         # AI fiction, projection collapse, independence-dependence paradox
+    ├── cybersecurity-arms-race.md     # Delegation incentive inversion, categorical perception limit
     ├── adolescence-of-technology.md   # Exponential observer illusion, tool amplification ratio
     └── platform-truth-arbitration.md  # Categorical perception limit, platform moderation
 ```

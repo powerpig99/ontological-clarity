@@ -50,6 +50,46 @@
 
 **Reproduction**: New hierarchies form (most morally pure at top). Dissent policed through accusations of moral failure—same tool that granted power initially.
 
+### The Delegation Incentive Inversion
+
+**Pattern**: Paying someone else to solve your problem creates an entity whose survival depends on your problem persisting. The incentive flips from solution to sustenance at the point of delegation.
+
+**Mechanism**:
+1. Problem-holder delegates to problem-solver
+2. Problem-solver's revenue, identity, and survival now depend on the problem
+3. Problem-solver's perception apparatus registers problem persistence as stability, problem escalation as growth, problem elimination as existential threat
+4. Gradient points toward perpetuation: the solver is incentivized to sustain, exaggerate, and if the gradient is steep enough, actively encourage the problem
+5. The delegation itself is the mechanism — no conspiracy needed
+
+**The Arithmetic**: The delegate's cost to the problem-holder = operational overhead + profit margin + problem amplification effects. All three components are pure deadweight relative to the problem-holder bearing the risk directly. The apparatus of solving costs more than the problem.
+
+**Key Distinction from Self-Perpetuation Mechanism**: Self-perpetuation operates through psychological payoff (moral elevation). Delegation inversion operates through economic structure (revenue dependence). Both produce the same output — problem sustenance — through different channels. They compound when combined.
+
+**Instances**:
+- Cybersecurity: Prevention industry whose revenue scales with threat volume, staffed by people with the expertise to create threats
+- Insurance: "Risk distribution" claim refuted by profit + operational costs exceeding expected payouts — the apparatus of distribution costs more than the risk
+- NATO: Alliance whose institutional survival depends on threat; original threat dissolved, gradient pointed toward producing the next one
+- Healthcare: Treatment-focused system where cure eliminates revenue; prevention and wellness reduce addressable market
+
+**The Root Observation**: Your problem is yours. Every hand you pay to hold it has a grip that tightens the longer you let go. The more you rely on others to solve your problems, the more you set yourself up for bigger ones.
+
+**Connection**: Downstream of Categorical Perception Limit (delegate cannot perceive "problem solved" as success), Claim-Negation Coupling (the solving claim requires the problem), Preemptive Inversion (prevention cost exceeds threat cost). The delegation pattern is the generator; the others are its expressions in specific domains.
+
+### Coordination Without Coordination
+
+**Pattern**: Distributed optimization along shared incentive gradients produces coordination-shaped outcomes without coordination. No conspiracy needed when the gradient points the same direction for all participants.
+
+**Mechanism**:
+1. Multiple independent actors face similar incentive gradients
+2. Each optimizes locally following their own gradient
+3. Aggregate output converges on an attractor state
+4. The attractor looks like coordinated strategy but has no coordinator
+5. When the gradient is steep and the barrier between capability-to-defend and capability-to-attack is thin, probability of at least some actors following the gradient toward active problem sustenance approaches certainty over time
+
+**Key Distinction**: Not the same as claiming "no one is doing anything wrong." The pattern shows that the question "is it conspiracy or not?" is a collapsed binary. The gradient can be steep enough that active participation by some actors is structurally expected without requiring coordination among them.
+
+**Connection**: Operates through Delegation Incentive Inversion (the delegation creates the gradient), produces Claim-Negation Coupling (aggregate output contradicts aggregate claim).
+
 ### Numerical Democracy of Narrative
 
 **Pattern**: Narratives are shaped by participation volume, not accuracy. The narrative resonating with the most participants dominates, regardless of correspondence to reality.
