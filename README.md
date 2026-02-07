@@ -32,15 +32,15 @@ Every analysis is traced fresh. The tracing is the practice, not the product.
 
 Read `SKILL.md`. Apply the three-step method to whatever you're examining. If the analysis produces a named pattern, use it once and let it go—don't catalogue it. The pattern will re-emerge wherever the mechanism operates. If it doesn't re-emerge without the name, the name was doing the work the analysis should have been doing.
 
-### With Claude
+### With Agentic Applications
 
-This framework is structured as a Claude skill:
+`SKILL.md` is a single markdown file with YAML frontmatter — designed to work as a knowledge file, system prompt, or skill in any agentic application that accepts instructions.
 
-1. Create a Claude Project
-2. Add `SKILL.md` to the project's knowledge
-3. Reference the framework: "Apply the ontological framework to X" or "Use the Contradiction analysis on Y"
+**Claude Projects**: Add `SKILL.md` to a project's knowledge. Reference with "Apply the ontological framework to X" or "Use the Contradiction analysis on Y."
 
-Claude will trace topics to their ontological ground, dissolve false dichotomies, and expose mechanism.
+**Claude Code**: Place `SKILL.md` as a skill under `~/.claude/skills/` or `.claude/skills/`. Invoke with the skill name to load the framework into the session.
+
+**Other agentic systems**: Any application that accepts a system prompt, instruction file, or knowledge base can ingest `SKILL.md` directly. The framework is self-contained — no dependencies, no external references.
 
 ## Structure
 
