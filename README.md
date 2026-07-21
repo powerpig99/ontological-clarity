@@ -15,7 +15,7 @@ The tracing is the practice, not the product. Every analysis is traced fresh fro
 | File | Role |
 |---|---|
 | [`SKILL.md`](SKILL.md) | Generative ground + method (wake-phase instrument) |
-| [`STORE.md`](STORE.md) | Sparse formal systems and premises distilled from application — re-derive each item from the premise on contact |
+| [`STORE.md`](STORE.md) | Temporary ground: sparse formal systems and premises held only while they speed contact — re-derive each item from the premise on contact; open to prune every sleep |
 
 That is the whole public surface.
 
@@ -48,7 +48,7 @@ curl -fsSL -o ~/.claude/skills/ontological-clarity/STORE.md \
 Start a new session so the skill is discovered. Ask in plain language, or use:
 
 - **`/onto [context]`** — wake-phase analysis: trace centers and traces, dissolve mechanism only  
-- **`/sleep`** — sleep/dissolution: prune candidates, update `STORE.md`, self-check (operator call only)
+- **`/sleep`** — sleep/dissolution: prune candidates on skill/store, audit project living trackers when present, regenerate graph projections, report vital sign (operator call only)
 
 **Claude.ai** — add `SKILL.md` (and optionally `STORE.md`) as project knowledge, or paste into custom instructions / a system prompt.
 
@@ -74,7 +74,7 @@ Trace centers and traces → locate capacity compression or Image lag → dissol
 
 Evidence, not proof. Held provisionally. This framework is itself a projection.
 
-Renewal runs in two phases: **wake** (application; skill fixed, candidates accumulate) and **sleep** (dissolution; only on explicit operator call). The skill should stay short; accumulation belongs in `STORE.md`.
+Renewal runs in two phases: **wake** (application; skill fixed, candidates accumulate) and **sleep** (dissolution; only on explicit operator call). The skill should stay short; the store is temporary ground under the same test, not a permanent annex.
 
 Some may call it open source. The better name is **open trace**: the source is the Mind — the edge that keeps moving, always at least one step ahead.
 
