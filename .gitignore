@@ -1,0 +1,5 @@
+# Local-only (not part of the public instrument)
+.claude/
+CLAUDE.md
+insights/
+.DS_Store
