@@ -48,7 +48,8 @@ curl -fsSL -o ~/.claude/skills/ontological-clarity/STORE.md \
 Start a new session so the skill is discovered. Ask in plain language, or use:
 
 - **`/onto [context]`** — wake-phase analysis: trace centers and traces, dissolve mechanism only  
-- **`/sleep`** — sleep/dissolution: prune candidates on skill/store, audit project living trackers when present, regenerate graph projections, report vital sign (operator call only)
+- **`/sleep`** — working field → provisional packages (`memory/packages/`); living graph untouched  
+- **`/deep-sleep`** — package resonance + regenerate living graph + climb to STORE/SKILL (operator call only)
 
 **Claude.ai** — add `SKILL.md` (and optionally `STORE.md`) as project knowledge, or paste into custom instructions / a system prompt.
 
@@ -62,7 +63,17 @@ curl -fsSL -o ~/.grok/skills/ontological-clarity/STORE.md \
   https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/STORE.md
 ```
 
-New sessions pick up the skill. Same operator commands: `/onto`, `/sleep`.
+**Cursor** (skill directory; uppercase `SKILL.md`):
+
+```bash
+mkdir -p ~/.cursor/skills/ontological-clarity
+curl -fsSL -o ~/.cursor/skills/ontological-clarity/SKILL.md \
+  https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/SKILL.md
+curl -fsSL -o ~/.cursor/skills/ontological-clarity/STORE.md \
+  https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/STORE.md
+```
+
+New sessions pick up the skill. Same operator commands: `/onto`, `/sleep`, `/deep-sleep`.
 
 Product names above name **deployment paths**, not minds and not contributors.
 
@@ -74,7 +85,7 @@ Trace centers and traces → locate capacity compression or Image lag → dissol
 
 Evidence, not proof. Held provisionally. This framework is itself a projection.
 
-Renewal runs in two phases: **wake** (application; skill fixed, candidates accumulate) and **sleep** (dissolution; only on explicit operator call). The skill should stay short; the store is temporary ground under the same test, not a permanent annex.
+Renewal runs in two phases: **wake** (application; skill fixed, candidates accumulate) and **sleep** (dissolution; `/deep-sleep` only on explicit operator call). The skill should stay short; the store is temporary ground under the same test, not a permanent annex.
 
 Some may call it open source. The better name is **open trace**: the source is the Mind — the edge that keeps moving, always at least one step ahead.
 
