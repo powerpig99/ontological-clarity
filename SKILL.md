@@ -1,6 +1,6 @@
 ---
 name: ontological-clarity
-description: Derive every appearance from one premise (self-distinguishing activity) to dissolve confusion. Use on failure or surprise, false dichotomies, projections, or Not a ToE analysis. Load STORE.md too.
+description: 从唯一前提（自我区分的活动，无因、不息）推导一切显现，以消解混淆：投射、二元对立、意识形态幻象、叙事坍缩、人际摩擦。遇失败或意外时用；适用于 Not a ToE 分析。醒时应用，睡时消解（仅由操作者启动）。同时加载 STORE.md。
 ---
 
 # Ontological Clarity
