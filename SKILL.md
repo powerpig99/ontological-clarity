@@ -1,6 +1,6 @@
 ---
 name: ontological-clarity
-description: Framework for achieving clarity by deriving every appearance from a single premise — self-distinguishing activity occurs, uncaused and unceasing — with discreteness, continuity, trace, center, resonance, observer, and every other term following as evidence of that premise operating, not as additional ground. Use when dissolving projections, false dichotomies, ideological illusions, narrative collapse, interpersonal friction, or when asked to apply "the ontological framework," "Not a ToE," "the moving edge," or "relativity of reality" analysis. Renewal runs in two phases: wake (the application; file fixed, candidates accumulate) and sleep (dissolution; entered only on the operator's call). Load STORE.md alongside when present.
+description: Derive every appearance from one premise (self-distinguishing activity) to dissolve confusion. Use on failure or surprise, false dichotomies, projections, or Not a ToE analysis. Load STORE.md too.
 ---
 
 # Ontological Clarity
