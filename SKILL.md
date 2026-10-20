@@ -18,6 +18,7 @@ Usage: `/onto [content, thread, situation, or blank for active context]`
 | **`/bridge`** | Session (perception) → **working memory** `memory/bridges/<id>.md`, one per thread (moving edge + preceding traces with priors named). Skill: `~/.grok/skills/bridge/SKILL.md` |
 | **`/resume-bridge`** | Resume working memory (`memory/bridges/<id>.md`): auto-loads own thread after `/clear` in the same session; shows pick list in a new session or after `/retire`. Skill: `~/.grok/skills/resume-bridge/SKILL.md` |
 | **`/retire`** | Finished thread with nothing worth keeping → delete `memory/bridges/<id>.md`, start fresh. Skill: `~/.grok/skills/retire/SKILL.md` |
+| **`/wake`** (`/draft`) | Waking inscription into Artificial Memory (`not-a-toe`): asks 2–4 probing questions for context, then runs the 7-bot peer-debate pipeline (`Drafter` ⇄ `Critic` → `Sweeper` ⇄ `Sweep-Checker` → `Translator` ⇄ `Stylist` → `Final Reviewer`) to author a new post `N`. Skill: `~/.grok/skills/wake/SKILL.md` |
 | **`/sleep`** | Shallow sleep consolidation of Artificial Memory (`not-a-toe`): refines **Layer 1 (`L1 = links_out(N)`)** outward neighbors of the most recent new post `N`. Skill: `~/.grok/skills/sleep/SKILL.md` |
 | **`/deep-sleep`** | Deep sleep consolidation of Artificial Memory (`not-a-toe`): steps **one layer deeper (`L_{k-1} → Lk`)** down the forward link graph (`L2`, `L3`, ...) until a new post initiates a new cycle. Skill: `~/.grok/skills/deep-sleep/SKILL.md` |
 
