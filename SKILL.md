@@ -15,12 +15,12 @@ Usage: `/onto [content, thread, situation, or blank for active context]`
 
 | Command | Role |
 |---------|------|
-| **`/bridge`** | Session (perception) → **working memory** `memory/bridges/<id>.md`, one per thread (moving edge + preceding traces with priors named). Skill: `~/.grok/skills/bridge/SKILL.md` |
-| **`/resume-bridge`** | Resume working memory (`memory/bridges/<id>.md`): auto-loads own thread after `/clear` in the same session; shows pick list in a new session or after `/retire`. Skill: `~/.grok/skills/resume-bridge/SKILL.md` |
-| **`/retire`** | Finished thread with nothing worth keeping → delete `memory/bridges/<id>.md`, start fresh. Skill: `~/.grok/skills/retire/SKILL.md` |
-| **`/wake`** (`/draft`) | Waking evaluation & inscription into Artificial Memory (`not-a-toe`): probes for the waking materials (new intuition/spark, inspiring source, AI/X discussion thread, initial draft), recommends **New Post (`N`)**, **Refinement**, or **Drop (repetitive)**, and runs the 7-bot pipeline on go-ahead. Skill: `~/.grok/skills/wake/SKILL.md` |
-| **`/sleep`** | Shallow sleep consolidation of Artificial Memory (`not-a-toe`): refines **Layer 1 (`L1 = links_out(N)`)** outward neighbors of the most recent new post `N`. Skill: `~/.grok/skills/sleep/SKILL.md` |
-| **`/deep-sleep`** | Deep sleep consolidation of Artificial Memory (`not-a-toe`): steps **one layer deeper (`L_{k-1} → Lk`)** down the forward link graph (`L2`, `L3`, ...) until a new post initiates a new cycle. Skill: `~/.grok/skills/deep-sleep/SKILL.md` |
+| **`/bridge`** | Session (perception) → **working memory** `memory/bridges/<id>.md`, one per thread (moving edge + preceding traces with priors named). |
+| **`/resume-bridge`** | Resume working memory (`memory/bridges/<id>.md`): auto-loads own thread after `/clear` in the same session; shows pick list in a new session or after `/retire`. |
+| **`/retire`** | Finished thread with nothing worth keeping → delete `memory/bridges/<id>.md`, start fresh. |
+| **`/wake`** (`/draft`) | Waking evaluation & inscription into Artificial Memory (`not-a-toe`): probes for the waking materials (new intuition/spark, inspiring source, AI/X discussion thread, initial draft), recommends **New Post (`N`)**, **Refinement**, or **Drop (repetitive)**, and runs the peer-debate pipeline (`Drafter` ⇄ `Critic` → `Translator` ⇄ `Stylist` → `Dispatcher/Assembler`) on go-ahead. |
+| **`/sleep`** | Shallow sleep consolidation of Artificial Memory (`not-a-toe`): refines **Layer 1 (`L1 = links_out(N)`)** outward neighbors of the most recent new post `N`. |
+| **`/deep-sleep`** | Deep sleep consolidation of Artificial Memory (`not-a-toe`): waits for `L_{k-1}` to finish, re-projects the graph, and steps **one layer deeper (`L_{k-1} → Lk`)** down the forward link graph (`L2`, `L3`, ...) until a new post initiates a new cycle. |
 
 **Default method for adaptive self-improvement.** This skill is the **default method** whenever the agent (or operator) improves skills, session instruments, or project tools. Load this file **before** editing those surfaces. **Openness of this instrument is self-application, not exterior upgrade.** Systems that cannot apply their own method to themselves stay closed until modified from outside. Consistent application of this skill forces it to face its own limitations — vocabulary that ossified, a derivation that over-reached, a hold that claimed arrival — and that facing *is* the demand for further refinement. Load-bearing is not presumed; naming this file method does not exempt it from Method. It stays usable only while continuous self-application still dissolves its own ossifications — including this sentence.
 
