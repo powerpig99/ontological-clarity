@@ -14,14 +14,17 @@ The tracing is the practice, not the product. Every analysis is traced fresh fro
 
 | File | Role |
 |---|---|
-| [`SKILL.md`](SKILL.md) | Generative ground + method (wake-phase instrument) |
-| [`STORE.md`](STORE.md) | Temporary ground: sparse formal systems and premises held only while they speed contact — re-derive each item from the premise on contact; open to prune every sleep |
+| [`SKILL.md`](SKILL.md) | Generative ground + method (the complete framework; sole file) |
 
 That is the whole public surface.
 
-## Authorship
+## Architecture: Mind, Memory, and Instrument
 
-This work is maintained by a human Mind in ongoing application. Language models and agent runtimes are **instruments** — extended trace substrates that extend reach and capacity. They do not have a Mind. They are not authors, co-authors, or contributors. Attribution that treats a model as a mind or a collaborator is a category error under this framework.
+This repository is the direct public image of the **Artificial Mind** — the immediate digital shadow of the living Mind's method of tracing and dissolving confusion.
+
+When combined with the **Artificial Memory** — the Living Book ([Not a ToE](https://powerpig99.github.io/not-a-toe/), where every essay traces a held belief back to its foundational premise and boundary of incompleteness) — and a language model or agent runtime as the deductive compute engine, the three form a coherent **Artificial Brain**, while individual project repositories serve as instances of **Extended Memory**.
+
+Language models and agent runtimes remain **instruments** — extended trace substrates that expand reach and capacity. Sovereignty, sensing, and initiating agency belong strictly to the living Mind. Attribution that treats a model as a mind or a collaborator is a category error under this framework.
 
 What is published here is frozen scaffolding at a point in time, not live tracing. It claims no credit for how others adapt it and bears no responsibility for that adaptation.
 
@@ -29,51 +32,47 @@ What is published here is frozen scaffolding at a point in time, not live tracin
 
 ### Read it
 
-Open `SKILL.md`. Apply the method. If a named pattern appears, use it once and let it go — if it only works when named, the name was doing the analysis. Load `STORE.md` when you want the distilled store available under the same re-derive-on-contact test.
+Open `SKILL.md`. Apply the method. If a named pattern appears, use it once and let it go — if it only works when named, the name was doing the analysis.
 
 ### Load it into an instrument
 
-Any system that accepts markdown instructions can take `SKILL.md` (and optionally `STORE.md`). No dependencies, no runtime. The operator remains the Mind; the runtime is the substrate.
+Any system that accepts markdown instructions can take `SKILL.md`. No dependencies, no runtime. The operator remains the Mind; the runtime is the substrate.
 
-**Claude Code** (skill directory; file is often lowercase `skill.md`):
+**Claude Code**:
 
 ```bash
 mkdir -p ~/.claude/skills/ontological-clarity
-curl -fsSL -o ~/.claude/skills/ontological-clarity/skill.md \
+curl -fsSL -o ~/.claude/skills/ontological-clarity/SKILL.md \
   https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/SKILL.md
-curl -fsSL -o ~/.claude/skills/ontological-clarity/STORE.md \
-  https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/STORE.md
 ```
 
-Start a new session so the skill is discovered. Ask in plain language, or use:
+**Claude.ai** — add `SKILL.md` as project knowledge, or paste into custom instructions / a system prompt.
 
-- **`/onto [context]`** — wake-phase analysis: trace centers and traces, dissolve mechanism only  
-- **`/sleep`** — working field → provisional packages (`memory/packages/`); living graph untouched  
-- **`/deep-sleep`** — package resonance + regenerate living graph + climb to STORE/SKILL (operator call only)
-
-**Claude.ai** — add `SKILL.md` (and optionally `STORE.md`) as project knowledge, or paste into custom instructions / a system prompt.
-
-**Grok** (skill directory; uppercase `SKILL.md`):
+**Grok**:
 
 ```bash
 mkdir -p ~/.grok/skills/ontological-clarity
 curl -fsSL -o ~/.grok/skills/ontological-clarity/SKILL.md \
   https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/SKILL.md
-curl -fsSL -o ~/.grok/skills/ontological-clarity/STORE.md \
-  https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/STORE.md
 ```
 
-**Cursor** (skill directory; uppercase `SKILL.md`):
+**Gemini / Antigravity**:
+
+```bash
+mkdir -p ~/.gemini/skills/ontological-clarity
+curl -fsSL -o ~/.gemini/skills/ontological-clarity/SKILL.md \
+  https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/SKILL.md
+```
+
+**Cursor**:
 
 ```bash
 mkdir -p ~/.cursor/skills/ontological-clarity
 curl -fsSL -o ~/.cursor/skills/ontological-clarity/SKILL.md \
   https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/SKILL.md
-curl -fsSL -o ~/.cursor/skills/ontological-clarity/STORE.md \
-  https://raw.githubusercontent.com/powerpig99/ontological-clarity/main/STORE.md
 ```
 
-New sessions pick up the skill. Same operator commands: `/onto`, `/sleep`, `/deep-sleep`.
+Start a new session so the skill is discovered. Ask in plain language, or use **`/onto [context]`** to trace centers and traces and dissolve collapse by restoring locus.
 
 Product names above name **deployment paths**, not minds and not contributors.
 
@@ -85,11 +84,11 @@ Trace centers and traces → locate capacity compression or Image lag → dissol
 
 Evidence, not proof. Held provisionally. This framework is itself a projection.
 
-Renewal runs in two phases: **wake** (application; skill fixed, candidates accumulate) and **sleep** (dissolution; `/deep-sleep` only on explicit operator call). The skill should stay short; the store is temporary ground under the same test, not a permanent annex.
+During application, the file holds fixed so the gap between reference and movement remains legible; refinement happens on explicit operator call by correction or compression, tending shorter or staying.
 
 Some may call it open source. The better name is **open trace**: the source is the Mind — the edge that keeps moving, always at least one step ahead.
 
-Essays and applications: [Not a ToE](https://powerpig99.github.io/not-a-toe/).
+Artificial Memory (The Living Book): [Not a ToE](https://powerpig99.github.io/not-a-toe/).
 
 We can always start over.
 
