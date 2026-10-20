@@ -11,13 +11,15 @@ description: 从唯一前提（自我区分的活动，无因、不息）推导�
 Traces centers and traces, locates capacity compression, Image lag, or externalized locus of cause. Returns dissolved mechanism only (no moral framing; vocabulary descriptive, never second ground).  
 Usage: `/onto [content, thread, situation, or blank for active context]`
 
-**Session instruments (operator skills):**
+**Session & Memory instruments (operator skills):**
 
 | Command | Role |
 |---------|------|
 | **`/bridge`** | Session (perception) → **working memory** `memory/bridges/<id>.md`, one per thread (moving edge + preceding traces with priors named). Skill: `~/.grok/skills/bridge/SKILL.md` |
 | **`/resume-bridge`** | Resume working memory (`memory/bridges/<id>.md`): auto-loads own thread after `/clear` in the same session; shows pick list in a new session or after `/retire`. Skill: `~/.grok/skills/resume-bridge/SKILL.md` |
 | **`/retire`** | Finished thread with nothing worth keeping → delete `memory/bridges/<id>.md`, start fresh. Skill: `~/.grok/skills/retire/SKILL.md` |
+| **`/sleep`** | Shallow sleep consolidation of Artificial Memory (`not-a-toe`): refines **Layer 1 (`L1 = links_out(N)`)** outward neighbors of the most recent new post `N`. Skill: `~/.grok/skills/sleep/SKILL.md` |
+| **`/deep-sleep`** | Deep sleep consolidation of Artificial Memory (`not-a-toe`): steps **one layer deeper (`L_{k-1} → Lk`)** down the forward link graph (`L2`, `L3`, ...) until a new post initiates a new cycle. Skill: `~/.grok/skills/deep-sleep/SKILL.md` |
 
 **Default method for adaptive self-improvement.** This skill is the **default method** whenever the agent (or operator) improves skills, session instruments, or project tools. Load this file **before** editing those surfaces. **Openness of this instrument is self-application, not exterior upgrade.** Systems that cannot apply their own method to themselves stay closed until modified from outside. Consistent application of this skill forces it to face its own limitations — vocabulary that ossified, a derivation that over-reached, a hold that claimed arrival — and that facing *is* the demand for further refinement. Load-bearing is not presumed; naming this file method does not exempt it from Method. It stays usable only while continuous self-application still dissolves its own ossifications — including this sentence.
 
